@@ -1,27 +1,23 @@
 // src/App.jsx
 
 import { useState, useEffect } from 'react';
+import { Routes, Route, useNavigate } from 'react-router-dom';
 import TopicSelector from './components/TopicSelector.jsx';
 import QuestionCard from './components/QuestionCard.jsx';
 import ResultSummary from './components/ResultSummary.jsx';
 import ProgressTracker from './components/ProgressTracker.jsx';
+import Creditos from './components/Creditos.jsx';
 import { topics } from './data/questions.js';
 
-function calculateResults(userAnswers, questions) {
-  return questions.map((q, index) => ({
-    correct: userAnswers[index] === q.correct,
-    userAnswer: userAnswers[index],
-    correctAnswer: q.correct
-  }));
-}
-
-export default function App() {
+// Componente para manejar la navegación
+function AppContent() {
   const [selectedTopic, setSelectedTopic] = useState(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [userAnswers, setUserAnswers] = useState([]);
   const [modoOscuro, setModoOscuro] = useState(false);
+  const navigate = useNavigate();
 
-  // Cargar preferencia del usuario desde localStorage
+  // Cargar preferencia del modo oscuro
   useEffect(() => {
     const saved = localStorage.getItem('modoOscuro');
     if (saved !== null) {
@@ -32,7 +28,7 @@ export default function App() {
     }
   }, []);
 
-  // Guardar en localStorage cuando cambia
+  // Guardar en localStorage
   useEffect(() => {
     localStorage.setItem('modoOscuro', modoOscuro);
     if (modoOscuro) {
@@ -58,6 +54,7 @@ export default function App() {
       setSelectedTopic(null);
       setCurrentQuestionIndex(0);
       setUserAnswers([]);
+      navigate('/');
     }
   };
 
@@ -90,7 +87,6 @@ export default function App() {
     setCurrentQuestionIndex(index);
   };
 
-  // Si no hay tema seleccionado
   if (!selectedTopic) {
     return (
       <div className={modoOscuro ? 'dark' : 'light'}>
@@ -103,23 +99,25 @@ export default function App() {
             background: 'none',
             border: 'none',
             fontSize: '24px',
-            cursor: 'pointer',
-            zIndex: 100
+            cursor: 'pointer'
           }}
-          aria-label={modoOscuro ? 'Cambiar a modo claro' : 'Cambiar a modo oscuro'}
         >
           {modoOscuro ? '☀️' : '🌙'}
         </button>
-        <TopicSelector onSelectTopic={handleTopicSelect} modoOscuro={modoOscuro} />
+        <TopicSelector onSelectTopic={handleTopicSelect} />
       </div>
     );
   }
 
   const questions = topics[selectedTopic];
 
-  // Si ya terminó todas las preguntas
   if (currentQuestionIndex >= questions.length) {
-    const results = calculateResults(userAnswers, questions);
+    const results = questions.map((q, i) => ({
+      correct: userAnswers[i] === q.correct,
+      userAnswer: userAnswers[i],
+      correctAnswer: q.correct
+    }));
+
     return (
       <div className={modoOscuro ? 'dark' : 'light'}>
         <button
@@ -131,8 +129,7 @@ export default function App() {
             background: 'none',
             border: 'none',
             fontSize: '24px',
-            cursor: 'pointer',
-            zIndex: 100
+            cursor: 'pointer'
           }}
         >
           {modoOscuro ? '☀️' : '🌙'}
@@ -150,8 +147,7 @@ export default function App() {
             borderRadius: '6px',
             padding: '8px 16px',
             fontSize: '14px',
-            cursor: 'pointer',
-            zIndex: 100
+            cursor: 'pointer'
           }}
         >
           🚪 Salir
@@ -173,27 +169,20 @@ export default function App() {
 
   return (
     <div className={modoOscuro ? 'dark' : 'light'}>
-      {/* Botones de modo oscuro y salir */}
-      <div style={{
-        position: 'absolute',
-        top: '20px',
-        right: '20px',
-        display: 'flex',
-        gap: '10px',
-        zIndex: 100
-      }}>
-        <button
-          onClick={toggleModo}
-          style={{
-            background: 'none',
-            border: 'none',
-            fontSize: '24px',
-            cursor: 'pointer'
-          }}
-        >
-          {modoOscuro ? '☀️' : '🌙'}
-        </button>
-      </div>
+      <button
+        onClick={toggleModo}
+        style={{
+          position: 'absolute',
+          top: '20px',
+          right: '20px',
+          background: 'none',
+          border: 'none',
+          fontSize: '24px',
+          cursor: 'pointer'
+        }}
+      >
+        {modoOscuro ? '☀️' : '🌙'}
+      </button>
 
       <button
         onClick={handleExit}
@@ -207,8 +196,7 @@ export default function App() {
           borderRadius: '6px',
           padding: '8px 16px',
           fontSize: '14px',
-          cursor: 'pointer',
-          zIndex: 100
+          cursor: 'pointer'
         }}
       >
         🚪 Salir
@@ -232,5 +220,15 @@ export default function App() {
         modoOscuro={modoOscuro}
       />
     </div>
+  );
+}
+
+// Componente principal con rutas
+export default function App() {
+  return (
+    <Routes>
+      <Route path="/" element={<AppContent />} />
+      <Route path="/creditos" element={<Creditos />} />
+    </Routes>
   );
 }

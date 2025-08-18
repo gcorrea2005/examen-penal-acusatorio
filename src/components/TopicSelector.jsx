@@ -1,7 +1,7 @@
 // src/components/TopicSelector.jsx
 
 export default function TopicSelector({ onSelectTopic }) {
-  // Temas ordenados de forma pedagógica
+  // Temas ordenados de forma pedagógica y temática
   const topicNames = {
     fundamentos: "🧠 Fundamentos del Sistema Penal",
     constitucional: "📜 Constitucional",
@@ -10,7 +10,8 @@ export default function TopicSelector({ onSelectTopic }) {
     audiencias_etapas: "🎤 Audiencias y Etapas del Proceso",
     procedimiento_penal: "📘 Procedimiento Penal",
     penal_acusatorio: "⚖️ Penal Acusatorio",
-    resultados_sistema: "📊 Resultados y Eficacia del Sistema"
+    resultados_sistema: "📊 Resultados del Sistema",
+    competencia_administrativa_01: "🏛️ Competencia Administrativa"
   };
 
   return (
@@ -25,6 +26,7 @@ export default function TopicSelector({ onSelectTopic }) {
       color: '#1a1a1a',
       textAlign: 'center'
     }}>
+      {/* Título principal */}
       <h2 style={{
         fontSize: '26px',
         marginBottom: '16px',
@@ -32,6 +34,7 @@ export default function TopicSelector({ onSelectTopic }) {
       }}>
         📚 Elige un tema para comenzar
       </h2>
+
       <p style={{
         color: '#555',
         marginBottom: '30px',
@@ -40,7 +43,7 @@ export default function TopicSelector({ onSelectTopic }) {
         Selecciona un área para iniciar tu evaluación jurídica
       </p>
 
-      {/* Grid de botones */}
+      {/* Grid de temas */}
       <div style={{
         display: 'grid',
         gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))',
@@ -78,14 +81,32 @@ export default function TopicSelector({ onSelectTopic }) {
         ))}
       </div>
 
+      {/* Botón de créditos */}
+      <button
+        onClick={() => window.location.href = '/creditos'}
+        style={{
+          marginTop: '30px',
+          backgroundColor: '#6c757d',
+          color: 'white',
+          border: 'none',
+          padding: '10px 20px',
+          borderRadius: '6px',
+          cursor: 'pointer',
+          fontSize: '14px',
+          fontWeight: 'bold'
+        }}
+      >
+        ℹ️ Acerca del temario
+      </button>
+
       {/* Mensaje opcional */}
       <p style={{
-        marginTop: '30px',
+        marginTop: '20px',
         fontSize: '14px',
         color: '#666',
         fontStyle: 'italic'
       }}>
-        Cada tema contiene preguntas basadas en el Sistema Penal Acusatorio colombiano
+        Material académico basado en el temario de las Dras. Leidy Rondón y Yolanda Ordóñez
       </p>
     </div>
   );

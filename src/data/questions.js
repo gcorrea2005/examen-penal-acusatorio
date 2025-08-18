@@ -1383,5 +1383,368 @@ export const topics = {
       correct: 0,
       explanation: "Verdadero. El sistema ha mejorado tanto en eficacia como en garantías, generando mayor confianza en la justicia penal."
     }
+  ],
+
+  competencia_administrativa_01: [
+    {
+      id: 1,
+      question: "1. Al sistema técnico de administración de personal que tiene por objeto garantizar la eficiencia de la administración pública en general, se le llama:",
+      options: [
+        "Carrera fiscal",
+        "Carrera docente",
+        "Carrera administrativa",
+        "Carrera judicial"
+      ],
+      correct: 2,
+      explanation: "Carrera administrativa. Según el Art. 27 de la Ley 909 de 2004."
+    },
+    {
+      id: 2,
+      question: "2. La estabilidad e igualdad de oportunidades para el acceso y el ascenso al servicio público se obtiene mediante:",
+      options: [
+        "La Educación no formal",
+        "Carrera administrativa",
+        "La Educación formal",
+        "Las competencias ciudadanas"
+      ],
+      correct: 1,
+      explanation: "Carrera administrativa. Según la Ley 909 de 2004."
+    },
+    {
+      id: 3,
+      question: "3. Mientras se surte el proceso de selección para proveer empleos de Carrera Administrativa, se podrá encargar a un empleado que esté desempeñando el empleo inmediatamente inferior, hasta por un término no superior a:",
+      options: [
+        "Siete meses",
+        "Diez meses",
+        "Seis meses",
+        "Doce meses"
+      ],
+      correct: 2,
+      explanation: "Seis meses. Según el Art. 24 de la Ley 909 de 2004."
+    },
+    {
+      id: 4,
+      question: "4. Para los empleos de libre nombramiento y remoción, el encargo en caso de vacancia temporal o definitiva, podrá ser hasta por el término de:",
+      options: [
+        "Tres meses",
+        "Seis meses",
+        "Cuatro meses",
+        "Doce meses"
+      ],
+      correct: 0,
+      explanation: "Tres meses. Según el Art. 24 de la Ley 909 de 2004."
+    },
+    {
+      id: 5,
+      question: "5. Los empleos de Carrera Administrativa cuyos titulares se encuentren en situaciones administrativas que impliquen separación temporal, serán provistos en forma provisional por:",
+      options: [
+        "Empleados públicos",
+        "Trabajadores oficiales",
+        "Servidores públicos de carrera",
+        "Empleados de libre nombramiento y remoción"
+      ],
+      correct: 2,
+      explanation: "Servidores públicos de carrera. Según el Art. 25 de la Ley 909 de 2004."
+    },
+    {
+      id: 6,
+      question: "6. Según la Constitución Nacional, la responsabilidad de la administración y vigilancia de las carreras de los servidores públicos, le corresponde:",
+      options: [
+        "Al Presidente de la República",
+        "Al Congreso de Colombia",
+        "A la Comisión Nacional del Servicio Civil",
+        "A la Comisión Nacional del Servidor Público"
+      ],
+      correct: 2,
+      explanation: "A la Comisión Nacional del Servicio Civil. Según el Art. 130 de la Constitución Nacional."
+    },
+    {
+      id: 7,
+      question: "7. En la época de la Colonia en la América hispánica (del siglo XVI hasta los primeros años del siglo XIX), todos los cargos en los virreinatos dependían directa o indirectamente de:",
+      options: [
+        "La Real Hacienda",
+        "El Rey de España",
+        "La Real Audiencia",
+        "El respectivo Virrey"
+      ],
+      correct: 1,
+      explanation: "El Rey de España."
+    },
+    {
+      id: 8,
+      question: "8. Por la forma como la historia presenta la era Colonial Hispana en nuestra América, es posible afirmar que todos los representantes de la corona española eran funcionarios:",
+      options: [
+        "De carrera",
+        "De periodo fijo",
+        "De libre nombramiento y remoción",
+        "De carácter temporal"
+      ],
+      correct: 2,
+      explanation: "De libre nombramiento y remoción."
+    },
+    {
+      id: 9,
+      question: "9. Al conjunto de regímenes aplicables al personal de la Administración Pública, se le llama generalmente:",
+      options: [
+        "Derecho administrativo laboral",
+        "Función pública",
+        "Función administrativa",
+        "Derecho público"
+      ],
+      correct: 1,
+      explanation: "Función pública."
+    },
+    {
+      id: 10,
+      question: "10. La ley donde se estableció por primera vez la estabilidad en el empleo público, y el mérito para ascender en los cargos y creó el consejo de Administración y Disciplina fue:",
+      options: [
+        "La constitución de 1886",
+        "El plebiscito de 1957",
+        "La ley 165 de 1938",
+        "La ley 19 de 1958"
+      ],
+      correct: 2,
+      explanation: "La ley 165 de 1938."
+    },
+    {
+      id: 11,
+      question: "11. La Carrera Administrativa adquiere rango normativo constitucional, enunciando los principios básicos referentes para nombramiento, remoción, ascensos, contemplando la prohibición al funcionario de intervenir en política, en:",
+      options: [
+        "La ley 165 de 1938",
+        "La constitución de 1886",
+        "El plebiscito de 1957",
+        "La ley 19 de 1958"
+      ],
+      correct: 2,
+      explanation: "El plebiscito de 1957."
+    },
+    {
+      id: 12,
+      question: "12. ¿Qué ley reglamentó el decreto 1732 de 1960, que creó el Departamento Administrativo del Servicio Civil, la Comisión Nacional del Servicio Civil y la ESAP?",
+      options: [
+        "El plebiscito de 1957",
+        "La ley 165 de 1938",
+        "La ley 19 de 1958",
+        "La ley 65 de 1967"
+      ],
+      correct: 2,
+      explanation: "La ley 19 de 1958."
+    },
+    {
+      id: 13,
+      question: "13. Los decretos extraordinarios 2400 y 3074 de 1968, reglamentados por el decreto 1950 de 1973 y la ley 909 de 2004, conforman:",
+      options: [
+        "El estatuto del empleado oficial",
+        "El estatuto de la Carrera Administrativa",
+        "El estatuto de los trabajadores",
+        "El estatuto del empleado de libre nombramiento y remoción"
+      ],
+      correct: 1,
+      explanation: "El estatuto de la Carrera Administrativa."
+    },
+    {
+      id: 14,
+      question: "14. Las leyes 61 de 1987; 27 de 1992 y 443 de 1998 están relacionadas directamente con:",
+      options: [
+        "El estatuto de la Carrera Administrativa",
+        "El estatuto de los trabajadores",
+        "El estatuto del empleado oficial",
+        "El estatuto de los educadores"
+      ],
+      correct: 0,
+      explanation: "El estatuto de la Carrera Administrativa."
+    },
+    {
+      id: 15,
+      question: "15. A los miembros de las corporaciones públicas, los empleados y trabajadores del estado y de sus entidades descentralizadas territorialmente y por servicios, se les llama:",
+      options: [
+        "Servidores públicos",
+        "Empleados públicos",
+        "Trabajadores oficiales",
+        "Empleados oficiales"
+      ],
+      correct: 0,
+      explanation: "Servidores públicos. Según el Art. 123 de la Constitución Nacional."
+    },
+    {
+      id: 16,
+      question: "16. Se cumple para los miembros de las corporaciones públicas que son de elección popular, con periodos fijos y con régimen propio:",
+      options: [
+        "Son servidores públicos",
+        "Son empleados públicos",
+        "Son trabajadores oficiales",
+        "Son empleados de Carrera Administrativa"
+      ],
+      correct: 0,
+      explanation: "Son servidores públicos. Según el Art. 123 de la Constitución Política."
+    },
+    {
+      id: 17,
+      question: "17. Se cumple para todos los empleados públicos:",
+      options: [
+        "Son miembros de las corporaciones públicas",
+        "Son siempre trabajadores oficiales",
+        "Son servidores públicos",
+        "Algunas veces son empleados de carrera"
+      ],
+      correct: 2,
+      explanation: "Son servidores públicos. Según el Art. 5 de la Ley 909 de 2004."
+    },
+    {
+      id: 18,
+      question: "18. Las personas que presentan sus servicios en los Ministerios, Departamentos Administrativos y Superintendencias son propiamente:",
+      options: [
+        "Empleados públicos",
+        "Trabajadores en provisionalidad",
+        "Trabajadores oficiales",
+        "Funcionarios de seguridad social"
+      ],
+      correct: 0,
+      explanation: "Empleados públicos. Según el Art. 5 de la Ley 909 de 2004."
+    },
+    {
+      id: 19,
+      question: "19. Las personas que prestan sus servicios en los Establecimientos Públicos, son propiamente:",
+      options: [
+        "Trabajadores públicos",
+        "Trabajadores oficiales",
+        "Empleados oficiales",
+        "Empleados públicos"
+      ],
+      correct: 3,
+      explanation: "Empleados públicos. Según el Art. 5 de la Ley 909 de 2004."
+    },
+    {
+      id: 20,
+      question: "20. Las personas que prestan sus servicios en las Empresas Industriales y Comerciales del Estado, en actividades de dirección o confianza fijadas en los estatutos, son propiamente:",
+      options: [
+        "Trabajadores oficiales",
+        "Empleados oficiales",
+        "Trabajadores públicos",
+        "Empleados públicos"
+      ],
+      correct: 3,
+      explanation: "Empleados públicos. Según el Art. 5 de la Ley 909 de 2004."
+    },
+    {
+      id: 21,
+      question: "21. Las personas que prestan sus servicios en las Sociedades de Economía Mixta con capital público igual o superior al noventa por ciento, en actividades de dirección o confianza, fijadas en los estatutos, son propiamente:",
+      options: [
+        "Trabajadores públicos",
+        "Trabajadores oficiales",
+        "Empleados públicos",
+        "Empleados oficiales"
+      ],
+      correct: 2,
+      explanation: "Empleados públicos. Según los Arts. 38 y 97 de la Ley 489 de 1998."
+    },
+    {
+      id: 22,
+      question: "22. El régimen de Derecho Público y la jurisdicción Contencioso-Administrativa resuelven las controversias que se presentan entre la administración y:",
+      options: [
+        "Trabajadores públicos",
+        "Trabajadores oficiales",
+        "Empleados públicos",
+        "Empleados oficiales"
+      ],
+      correct: 2,
+      explanation: "Empleados públicos. Según la Ley 712 de 2001."
+    },
+    {
+      id: 23,
+      question: "23. Las personas que prestan sus servicios en los Ministerios, Departamentos Administrativos, Superintendencias y Unidades Administrativas especiales, en labores de construcción y sostenimiento de obras públicas, son:",
+      options: [
+        "Servidores públicos",
+        "Empleados públicos",
+        "Trabajadores oficiales",
+        "Trabajadores públicos"
+      ],
+      correct: 2,
+      explanation: "Trabajadores oficiales. Según los decretos: 3135 de 1968; 1848 de 1969; 1950 de 1973 y 1042 de 1978."
+    },
+    {
+      id: 24,
+      question: "24. Las personas que prestan sus servicios en las empresas industriales y comerciales del estado, excepto las que desarrollan actividades de dirección o confianza, según los estatutos, son:",
+      options: [
+        "Trabajadores oficiales",
+        "Empleados públicos",
+        "Servidores oficiales",
+        "Trabajadores públicos"
+      ],
+      correct: 0,
+      explanation: "Trabajadores oficiales."
+    },
+    {
+      id: 25,
+      question: "25. Las personas que prestan sus servicios en las sociedades de economía mixta con capital público igual o superior al noventa por ciento del capital social, en actividades diferentes de las de dirección y confianza según los estatutos, son:",
+      options: [
+        "Trabajadores oficiales",
+        "Servidores públicos",
+        "Empleados públicos",
+        "Trabajadores públicos"
+      ],
+      correct: 0,
+      explanation: "Trabajadores oficiales. Según la Corte Suprema de Justicia."
+    },
+    {
+      id: 26,
+      question: "26. Las controversias que se presentan entre los trabajadores oficiales y la Administración son competencia de la:",
+      options: [
+        "Jurisdicción contencioso-administrativa",
+        "Jurisdicción de familia",
+        "Jurisdicción laboral y penal",
+        "Jurisdicción laboral común"
+      ],
+      correct: 3,
+      explanation: "Jurisdicción laboral común."
+    },
+    {
+      id: 27,
+      question: "27. En aquellas Sociedades de Economía Mixta con capital público inferior al noventa por ciento (90%) del capital social, los servidores son considerados como:",
+      options: [
+        "Empleados públicos",
+        "Trabajadores oficiales",
+        "Empleados oficiales",
+        "Trabajadores particulares"
+      ],
+      correct: 3,
+      explanation: "Trabajadores particulares. Según la Corte Suprema de Justicia."
+    },
+    {
+      id: 28,
+      question: "28. Se cumple, solo para el Instituto de los Seguros Sociales, que el Director General, el Secretario General, los Subdirectores y los Gerentes Seccionales son:",
+      options: [
+        "Trabajadores oficiales",
+        "Funcionarios de seguridad social",
+        "Empleados públicos",
+        "Trabajadores particulares"
+      ],
+      correct: 2,
+      explanation: "Empleados públicos. Según el decreto 1651 de 1977."
+    },
+    {
+      id: 29,
+      question: "29. Se cumple, solo para el Instituto de los Seguros Sociales, que las personas que cumplen funciones de aseo, jardinería, cocina, celaduría o parecidos son:",
+      options: [
+        "Funcionarios de seguridad social",
+        "Trabajadores oficiales",
+        "Empleados públicos",
+        "Trabajadores particulares"
+      ],
+      correct: 1,
+      explanation: "Trabajadores oficiales. Según el decreto 1651 de 1977."
+    },
+    {
+      id: 30,
+      question: "30. A los servidores que en el Instituto de los Seguros Sociales se les llamó funcionarios de Seguridad Social, hoy día se les considera como:",
+      options: [
+        "Trabajadores particulares",
+        "Empleados públicos",
+        "Trabajadores oficiales",
+        "Empleados oficiales"
+      ],
+      correct: 2,
+      explanation: "Trabajadores oficiales. Según la Corte Constitucional."
+    }
   ]
 };
