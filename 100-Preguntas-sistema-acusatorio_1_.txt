@@ -1,0 +1,735 @@
+       100 preguntas Sistema Penal Acusatorio
+
+         1        ¿Qué es el Sistema Penal Acusatorio?
+                  Es un sistema adversarial, donde las partes (Fiscalía y defensa)
+                  se enfrentan en igualdad de oportunidades ante un juez
+                  imparcial, quien, con base en las pruebas y argumentos, decide
+                  si condena o absuelve. También pueden intervenir el ministerio
+                  público y la víctima: el primero para salvaguardar el orden
+                  jurídico y la segunda para que se le garanticen la verdad, la
+                  justicia y la reparación.
+                  Las pruebas se presentan oralmente con testigos ante el juez,
+                  son sometidas a debate y confrontación por las partes quienes
+                  se esfuerzan por convencer al juez de su posición.
+
+         2        ¿Qué es el proceso penal?
+                  Es el mecanismo por medio del cual se investigan los delitos, y
+                  se acusa y se juzga a los presuntos responsables, cuando a ello
+                  hubiere lugar.
+
+         3        ¿Cómo se inicia un proceso penal?
+                  Desde el momento en que la Fiscalía tiene conocimiento de
+                  una conducta que se advierte delictiva y acusa por la misma.
+                  Ese conocimiento puede ser por denuncia, querella, informes o
+                  de oficio.
+
+         4        ¿Quiénes deben denunciar?
+                  Toda persona mayor de edad tiene el deber de denunciar a la
+                  autoridad los delitos de cuya comisión tenga conocimiento y
+                  que deban investigarse de oficio.
+
+         5
+                  ¿En qué casos una persona no está obligada
+                  a denunciar?
+                  Nadie está obligado a formular denuncia contra sí mismo, contra
+                  su cónyuge, compañero o compañera permanente o contra sus
+                  parientes dentro del cuarto grado de consanguinidad o civil, o
+                  segundo de afinidad, ni cuando medie el secreto profesional
+                  (sacerdotes, médicos y abogados, entre otros).
+
+         6        ¿Cuáles son los principios del proceso penal?
+                  El respeto de la dignidad humana, de la libertad, de la igualdad,
+                  de la imparcialidad, de la legalidad, de la presunción de
+                  inocencia, del derecho de defensa, del debido proceso, de los
+                  derechos de las víctimas y de la sociedad. En el proceso penal
+                  prevalecen los tratados internacionales, de oralidad, de lealtad,
+                  de contradicción, de publicidad, del juez natural, de doble
+                  instancia y de cosa juzgada, entre otros.
+
+         7        ¿Qué es el principio de la dignidad humana?
+                  Significa que todos los intervinientes en el proceso penal deben
+                  ser tratados como seres humanos y no como objetos.
+
+         8        ¿Qué es el principio de libertad?
+                  Es el derecho que tienen las personas a que se respeten sus
+                  acciones y movimientos dentro del ordenamiento jurídico, a no
+                  ser molestado en su persona ni privado de la libertad, sino en
+                  razón a motivos expresados por la ley.
+
+         9        ¿Qué es el principio de igualdad?
+                  Es el derecho de las personas que intervienen en el proceso
+                  penal a recibir el mismo trato y las mismas oportunidades, sin
+                  discriminación por raza, lengua, religión, origen, opinión política
+                  o filosófica. La igualdad obliga a las autoridades a adoptar
+                  medidas a favor de los más débiles, por razón de su condición
+                  económica, física o mental.
+
+        10 ¿Qué es el principio de imparcialidad?
+                  Es la obligación de los jueces, en el ejercicio de sus funciones
+                  de control de garantías, preclusión y juzgamiento, de orientarse
+                  por el imperativo de establecer con objetividad la verdad y la
+                  justicia. En la práctica, que los jueces mantengan un rol imparcial
+                  sobre la investigación, acusación y presentación de pruebas.
+
+        11 ¿Qué es el principio de legalidad?
+                  Significa que nadie puede ser investigado ni juzgado sino
+                  conforme con la ley procesal vigente al momento de los hechos,
+                  observando las formalidades propias de cada juicio.
+
+        12 ¿Qué es la presunción de inocencia?
+                  Toda persona se presume inocente y debe ser tratada como tal
+                  mientras no quede en firme una decisión judicial definitiva sobre
+                  su responsabilidad.
+
+        13 ¿Qué es el principio de in dubio pro reo?
+                  Corresponde a la Fiscalía la carga de la prueba acerca de la
+                  responsabilidad penal. Si después de valorar en conjunto y
+                  racionalmente las pruebas aportadas por las partes, el juez
+                  tiene duda sobre la conducta delictiva o la responsabilidad del
+                  acusado, deberá resolver a favor del procesado.
+
+        14 ¿Cuáles son los derechos de las víctimas?
+                  Tener acceso a la justicia; recibir un trato humano y digno;
+                  protección de su intimidad; garantía de seguridad, de sus
+                  familiares y sus testigos; a que se haga justicia en el caso; a
+                  conocer la verdad de lo ocurrido; a la reparación de los daños
+                  sufridos; a recibir información; a intervenir directamente en
+                  algunas decisiones y recibir asistencia integral.
+                  Además, a recibir información sobre organizaciones que pueden
+                  ayudarla y el tipo de ayuda, el lugar y el modo de presentar
+                  una denuncia o querella, las actuaciones subsiguientes a su
+                  denuncia, modo y condiciones de protección, mecanismos de
+                  defensa que puede utilizar, información sobre el proceso penal
+                  y sentencia, reparación integral, derecho de intervenir en el
+                  proceso y tener abogado para su presentación.
+
+        15 ¿Qué es el principio de contradicción?
+                  Es el acto mediante el cual las partes (Fiscalía y defensa) tienen
+                  derecho a conocer, controvertir o confrontar las pruebas, así
+                  como a intervenir en su formación y a oponerse a las alegaciones
+                  de la otra parte o interviniente.
+
+        16 ¿Qué es el principio de inmediación?
+                  Solamente se considera prueba aquella que ha sido practicada y
+                  producida por las partes ante el juez del conocimiento, en un
+                  juicio público, oral y contradictorio, con el fin de que el juez obser-
+                  ve directamente el comportamiento de los testigos al declarar y
+                  que pueda valorar más objetivamente esas declaraciones.
+
+        17 ¿Qué es el principio de concentración?
+                  Las pruebas y diligencias deben practicarse en una audiencia
+                  continua, preferiblemente el mismo día.
+
+        18 ¿Qué es el principio de publicidad?
+                  Significa que la actuación procesal y las audiencias deben ser
+                  abiertas, con el fin de que a ellas accedan no solo las partes e
+                  intervinientes, sino también los medios de comunicación y la
+                  comunidad.
+
+        19 ¿Quiénes tienen acceso a la actuación?
+                  Además de los intervinientes, la comunidad en general, que
+                  incluye a los medios de comunicación.
+
+        20 ¿Existen excepciones a la publicidad de las
+                  actuaciones?
+                  Sí. La actuación no será pública cuando el juez considere que la
+                  publicidad de los procedimientos pone en peligro a las víctimas,
+                  testigos, peritos, intervinientes; se afecte la seguridad pública;
+                  se exponga a un daño psicológico a los menores de edad; se
+                  menoscabe el derecho del acusado a un juicio justo o se
+                  comprometa seriamente el éxito de la investigación.
+
+        21 ¿Qué es el principio de oralidad?
+                  Las partes, intervinientes y testigos deben manifestarse
+                  verbalmente y en audiencia ante el juez. Generalmente, está
+                  prohibida la lectura o la entrega de memoriales.
+
+        22 ¿Cómo operaba esa situación en el anterior
+                  sistema?
+                  Se caracterizaba por la escritura. Era un sistema de actas y de
+                  constancias.
+
+        23 ¿Qué ventajas tiene la oralidad?
+                  El juez percibe directamente las manifestaciones de los testigos
+                  e intervinientes. Esto supone un proceso mucho más ágil,
+                  directo, eficaz y eficiente.
+
+        24 ¿Qué es el principio del juez natural?
+                  Garantizar que nadie podrá ser juzgado por un juez o tribunal
+                  instituido o creado con posterioridad a la comisión de un delito
+                  por fuera de la justicia ordinaria.
+
+        25 ¿Qué es el principio de la doble instancia?
+                  Determina que un superior del juez puede revisar las sentencias
+                  y decisiones que se refieran a la libertad, que afecten la práctica
+                  de las pruebas o que tengan efectos patrimoniales.
+
+        26 ¿Qué es el principio de cosa juzgada?
+                  Establece que una persona, después de que haya sido definida
+                  su situación mediante sentencia en firme, no puede ser
+                  investigada ni juzgada por los mismos hechos.
+
+        27 ¿En qué consiste el restablecimiento del derecho?
+                  Es la obligación que tienen la Fiscalía y los jueces de adoptar
+                  las medidas necesarias para, de ser posible, cesar los efectos
+                  producidos por el delito y que las cosas vuelvan a su estado
+                  anterior, tales como devolverle el bien hurtado o cancelar los
+                  títulos o registros falsos para restituir la propiedad de un
+                  inmueble.
+
+        28 ¿Cuál es la función esencial de la Fiscalía?
+                  En nombre del Estado y el pueblo colombiano entregar a la
+                  justicia a los que violan las leyes del país, investigar las conductas
+                  que se adviertan como delictivas y acusar, ante los jueces de
+                  conocimiento, a los posibles responsables presentando los
+                  elementos probatorios que soportan las investigaciones.
+
+        29 ¿Cuál es la función esencial de los jueces
+                  de conocimiento?
+                  Un juzgador imparcial que escucha la evidencia presentada y
+                  confrontada en un juicio oral para decidir sobre la
+                  responsabilidad penal de los acusados. Absolver o condenar a
+                  los acusados. El juez de conocimiento es el juez competente
+                  para conocer del juzgamiento, después de que el fiscal del caso
+                  presente el escrito de acusación.
+                  La competencia la otorga la clase de conducta o delito que se
+                  investiga. Pueden ser competentes la Corte Suprema de Justicia,
+                  el tribunal superior del distrito judicial, el juez especializado, el
+                  juez penal del circuito o el juez penal municipal.
+
+        30 ¿Cuál es la función de los jueces de control
+                  de garantías?
+                  Un juez imparcial que garantiza los derechos del investigado,
+                  imputado, víctima y la sociedad durante las audiencias
+                  preliminares ante el juicio. Tienen dos funciones esenciales.
+                  Son los llamados a proferir medidas de aseguramiento (como
+                  las detenciones) y, como su nombre lo indica, controlan la
+                  legalidad de las actuaciones de la Fiscalía y de la policía judicial.
+                  Quien haya actuado como juez de garantías no puede ser el
+                  juez del conocimiento.
+
+        31 ¿Cuáles jueces cumplen las funciones de jueces
+                  de control de garantías?
+                  Como regla general, los jueces penales municipales del lugar
+                  de los hechos.
+
+        32 ¿El ministerio público (la Procuraduría y las
+                  personerías) interviene en el sistema acusatorio?
+                  Sí, pero no en todos los casos. Solo cuando sea necesario en
+                  defensa del orden jurídico, del patrimonio público o de los
+                  derechos y garantías fundamentales consagrados en la
+                  Constitución.
+
+        33 ¿Cuándo se puede capturar a una persona?
+                  Cuando sea sorprendida en flagrancia y cuando exista orden
+                  emitida por un juez de control de garantías.
+
+        34 ¿Cuándo existe flagrancia?
+                  Tiene tres modalidades. Cuando una persona es sorprendida y
+                  capturada en el momento de cometer una conducta delictiva.
+                  Cuando es sorprendida al momento de cometer el delito pero
+                  capturada instantes después por persecución o voces de auxilio
+                  de quien presencie el hecho, y cuando es sorprendida y captu-
+                  rada con objetos, instrumentos o huellas que la relacionen con
+                  la conducta delictiva.
+
+        35 ¿Es necesario ser autoridad para capturar
+                  en flagrancia?
+                  No. En situaciones de flagrancia, inclusive un particular está
+                  facultado para capturar.
+
+        36 ¿Cuándo un juez puede ordenar una captura?
+                  Cuando la Fiscalía solicita y presenta elementos materiales o
+                  información que fundamenta la razón para la captura.
+
+        37 ¿La Fiscalía puede ordenar una captura?
+                  La Fiscalía podrá ordenar excepcionalmente capturas en casos
+                  de urgencia, para evitar daño a la víctima o a la comunidad, la
+                  huida del imputado o la alteración de las pruebas, siempre y
+                  cuando se trate de delitos que den lugar a detención preventiva,
+                  de acuerdo con la regulación que haga la ley.
+
+        38 ¿En el anterior sistema la Fiscalía podía ordenar
+                  capturas y detener a las personas?
+                  Sí. La Fiscalía podía ordenar capturas sin control de un juez y
+                  tenía facultades para detener preventivamente.
+
+        39 ¿Por qué razón se eliminó la posibilidad de que
+                  la Fiscalía ordenara capturas e impusiera
+                  medidas de aseguramiento?
+                  Porque no es lo más adecuado que la misma autoridad que
+                  investiga, ordene capturas y detenga. Se garantizan más los
+                  derechos de los procesados cuando esas órdenes las emite un
+                  juez imparcial que no ha intervenido en las pesquisas.
+
+        40 ¿Cuáles son los derechos del capturado?
+                  A toda persona capturada se le debe informar, de manera
+                  inmediata, del hecho que se le atribuye y qué motivó su captura;
+                  del funcionario que la ordenó; del derecho a indicar la persona
+                  a quien se deba comunicar su aprehensión; del derecho que
+                  tiene a guardar silencio y del derecho que tiene a designar y a
+                  entrevistarse con un abogado.
+
+        41 ¿Cuál es el procedimiento cuando se captura
+                 a una persona?
+                 Cuando sea una autoridad la que realice la captura deberá
+                 conducirla inmediatamente ante la Fiscalía. Si es un particular,
+                 se debe conducir al aprehendido en el término de la distancia
+                 ante cualquier autoridad de policía.
+
+        42 ¿Y, seguidamente, qué debe hacer el Fiscal?
+                 Si el delito no tiene detención preventiva, debe dejarlo en libertad
+                 y si procede la detención debe legalizar la captura ante un Juez
+                 de Control de Garantías dentro de 36 horas y solicitar a éste, en
+                 caso de ser procedente, la detención preventiva.
+
+        43 ¿Qué es una medida de aseguramiento?
+                 Es una decisión adoptada por un Juez de Control de Garantías,
+                 a petición de la Fiscalía, por medio de la cual afecta derechos
+                 fundamentales de un procesado, cuando advierte que, de los
+                 elementos materiales de prueba y de la información con que se
+                 cuenta, se pueda inferir que el imputado puede ser autor o
+                 partícipe de la conducta delictiva que se investiga.
+                 La medida se impone siempre y cuando se cumpla alguno de
+                 los siguientes requisitos: Que sea necesaria para evitar que el
+                 procesado obstruya la justicia; que el imputado constituya un
+                 peligro para la sociedad o para la víctima o que resulte probable
+                 que el imputado no comparecerá al proceso.
+
+        44 ¿Cuáles son las medidas de aseguramiento
+                 privativas de la libertad?
+                 La detención preventiva en establecimiento de reclusión y la
+                 detención preventiva en la residencia del procesado.
+
+        45 ¿Cuáles son las medidas de aseguramiento
+                 no privativas de la libertad?
+                 La obligación de someterse a un mecanismo de vigilancia elec-
+                 trónica o de una persona o institución determinada; la obligación
+                 de presentarse o cuando sea requerido; la obligación de obser-
+                 var buena conducta en el ámbito individual, personal y social; la
+                 prohibición de salir del país o de un determinado ámbito territo-
+                  rial, y la prohibición de concurrir a ciertos lugares o de comuni-
+                  carse con determinadas personas, en especial con las víctimas.
+
+        46 ¿La Fiscalía puede practicar pruebas?
+                  No. Las pruebas, salvo la anticipada, se practican ante el Juez
+                  de Conocimiento, en el escenario de un juicio público, oral y
+                  concentrado, donde la Fiscalía presenta sus elementos
+                  materiales y evidencia física contra el acusado al juez, pidiéndole
+                  que las acepte como prueba.
+
+        47 Si la Fiscalía no puede practicar pruebas,
+                  ¿cómo realiza la investigación?
+                  La Fiscalía se dedica a la búsqueda de evidencias o elementos
+                  materiales de prueba y a obtener información sobre el delito y
+                  sus posibles responsables y para ello cuenta con los actos de
+                  investigación.
+
+        48 ¿Cuáles son los elementos materiales
+                  de prueba o evidencias?
+                  Huellas, rastros, manchas, residuos, vestigios, armas,
+                  instrumentos u objetos utilizados para su ejecución; dinero,
+                  bienes y otros efectos provenientes de la actividad criminal;
+                  documentos, fotografías, videos, mensajes de datos, correo
+                  electrónico y fax, entre otros.
+
+        49 ¿En qué consiste el principio de oportunidad?
+                  Es la facultad que tiene la Fiscalía para suspender, interrumpir
+                  o renunciar a la persecución penal en casos particulares. En un
+                  sistema acusatorio, el fiscal tiene la responsabilidad exclusiva
+                  de acusar y puede declinar esta responsabilidad en nombre de
+                  la justicia, suspendiendo, interrumpiendo o renunciando a la
+                  acción penal.
+
+        50 ¿En el anterior sistema existía el principio
+                  de oportunidad?
+                  No. La Fiscalía tenía la obligación de ejercer la acción penal
+                  ante las conductas que advertía como delictivas y no podía
+                  renunciar a su ejercicio.
+
+        51 ¿Qué ventajas tiene el principio de oportunidad?
+                  El Estado, a través de la Fiscalía, dedica sus esfuerzos a investigar
+                  los delitos de mayor impacto social. Se ocupa de lo más
+                  importante en una valoración de costo-beneficio.
+
+        52 ¿En qué casos procede la aplicación
+                  del principio de oportunidad?
+                  En los delitos con penas menores; cuando exista una escasa
+                  afectación a bienes jurídicos; como beneficio por colaboración
+                  con la justicia y como mecanismo de cooperación internacional.
+
+        53 ¿Qué controles existen cuando la Fiscalía ejerce
+                  el principio de oportunidad?
+                  Los Jueces de Control de Garantías, en audiencia donde
+                  intervienen las víctimas y el Ministerio Público, realizan una
+                  audiencia para verificar la legalidad en la aplicación del Principio
+                  de Oportunidad.
+
+         54 ¿Existen los jurados de conciencia?
+                  La reforma constitucional que consagró el sistema acusatorio
+                  prevé esa posibilidad, pero dejó en manos de la ley su desarrollo.
+                  La Ley 906 de 2004 no consideró prudente, por ahora,
+                  implementar los jurados de conciencia.
+
+        55 ¿Cuáles son las audiencias en el Sistema
+                  Penal Acusatorio?
+                  La audiencia de formulación de imputación, la de formulación
+                  de acusación, la preparatoria del juicio oral; la de juicio oral y la
+                  de reparación integral y sentencia.
+                  Las audiencias preliminares, como la de formulación de
+                  imputación o medida de aseguramiento; la de formulación de
+                  acusación; la preparatoria; la de juicio oral y la de reparación
+                  integral y sentencia.
+
+        56 ¿Qué es la audiencia de formulación de
+                  imputación?
+                  Se realiza ante un Juez de Control de Garantías y en ella la
+                  Fiscalía le comunica a la persona que se le está adelantando
+                  una investigación sobre definidos hechos punibles, para que
+                  ésta ejerza el derecho de defensa.
+
+        57 ¿En qué consiste el escrito de acusación?
+                  Es un escrito por medio del cual la Fiscalía formaliza, ante el
+                  Juez de Conocimiento, una acusación en relación con una o
+                  varias personas, cuando de los elementos materiales de prueba
+                  (evidencias) y de la información obtenida se muestra con
+                  probabilidad que la conducta delictiva existió y que el imputado
+                  o imputados son autores o partícipes.
+
+        58 ¿En qué consiste la audiencia de formulación
+                  de acusación?
+                  Es la primera audiencia que se realiza ante el Juez de
+                  Conocimiento. Se da la oportunidad a las partes para que
+                  presenten observaciones en relación con la acusación, la cual
+                  puede ser corregida o aclarada. Se determina la calidad de la
+                  víctima y la Fiscalía debe descubrir los elementos de prueba
+                  que presentará en el juicio para que la defensa los conozca y
+                  pueda preparar su defensa.
+
+        59 ¿En qué consiste la audiencia preparatoria?
+                  Prepara la realización de la audiencia del juicio oral. La defensa
+                  descubre sus elementos de prueba, las partes enuncian las
+                  pruebas que van a hacer valer en el juicio y el juez dispone
+                  sobre las que pueden practicarse.
+
+        60 ¿En qué consiste la audiencia de juicio oral?
+                  Es el escenario más importante del sistema acusatorio. Allí,
+                  ante el Juez de Conocimiento, en un juicio público, oral y
+                  concentrado, las partes (Fiscalía y defensa) ofrecen las pruebas,
+                  las cuales se practican, controvierten y argumentan ante el
+                  juez. Concluido el debate probatorio, el juez anuncia el sentido
+                  del fallo (absolutorio o condenatorio).
+
+        61 ¿Qué es una audiencia de reparación integral?
+                  Una vez declarada la responsabilidad penal del acusado y a soli-
+                  citud directa de la víctima o del fiscal, o del Ministerio Público, el
+                  juez abre un incidente relacionado con la reparación integral de
+                  los daños (perjuicios materiales y morales) ocasionados con el
+                  delito.
+
+        62 ¿Qué es una audiencia de individualización
+                  de pena y sentencia?
+                  Si el fallo es condenatorio se hace una valoración de las
+                  condiciones del sentenciado para establecer la pena que le
+                  corresponde.
+
+        63         ¿Qué son los delitos querellables?
+                  Son aquellos delitos menores que solo revisten interés individual
+                  o para un grupo reducido y por lo tanto, sólo se activan por la
+                  querella o denuncia del interesado. Por ejemplo, lesiones menores,
+                  injuria, calumnia, inasistencia alimentaria, violencia intrafamiliar,
+                  abuso de confianza y daño en bien ajeno, entre otros.
+
+        63 ¿Qué es una conciliación?
+                  La conciliación busca el arreglo o solución al conflicto surgido
+                  entre dos personas y se impone, de manera obligatoria, para
+                  los delitos querellables. Solo cuando no se logra el acuerdo la
+                  Fiscalía inicia la investigación y posible acusación.
+
+        65 ¿Qué son las Casas de Justicia?
+                  Están orientadas a facilitar el acceso de las comunidades a
+                  servicios de justicia formal y no formal para lograr la resolución
+                  pacífica de conflictos y el fortalecimiento de la convivencia.
+                  Atienden las querellas y procuran una solución rápida de los
+                  conflictos generados por la violación de la ley en delitos menores.
+                  Sólo en los eventos en que no haya conciliación entre las partes,
+                  la Fiscalía asume el conocimiento de la investigación.
+
+        66 ¿Qué son las Unidades de Reacción Inmediata?
+                  Son unidades de la Fiscalía, integradas por Fiscales y servidores
+                  de policía judicial, que actúan de manera inmediata al tener
+                  conocimiento de la noticia criminal y que desarrollan las primeras
+                  actuaciones investigativas, especialmente en casos urgentes y
+                  cuenta con representantes de la Procuraduría y Defensoría. Estas
+                  unidades se denominan en el nuevo Sistema Acusatorio Centros
+                  de Servicios Judiciales.
+
+        67 ¿Qué son las Salas de Atención al Usuario - SAU?
+                  Son dependencias de la Fiscalía en las que se atiende al
+                  ciudadano, para resolver sus conflictos penales por la vía de la
+                  conciliación.
+
+         68 ¿Qué es una mediación?
+                  Es un instrumento que facilita la solución de asuntos mediante
+                  la participación de un tercero neutral, particular o servidor
+                  público designado por la Fiscalía. La presencia de un tercero
+                  facilita a la víctima y al imputado el intercambio de posiciones y
+                  puntos de vista para llegar a un arreglo que ponga fin a sus
+                  diferencias.
+
+        69 ¿Qué es un defensor de oficio?
+                  Abogado designado por la autoridad judicial, cuando el sindicado
+                  no ha nombrado defensor para que lo asista o cuando en
+                  ausencia del sindicado se hace necesario velar por el
+                  cumplimiento de su defensa.
+
+        70 ¿Qué es un defensor público?
+                  Abogado designado y pago por la Defensoría del Pueblo, para
+                  que asista a los sindicados de escasos recursos económicos y
+                  en situación de riesgo social.
+
+        71 ¿En qué regiones se implementó el Sistema
+                  Penal Acusatorio?
+                  Empezó a regir en el 2005 en los distritos judiciales de Bogotá,
+                  Manizales, Pereira y Armenia. En el 2006 se extendió a los
+                  distritos judiciales de Medellín, Cali, Buga, Tunja, Santa Rosa
+                  de Viterbo, Bucaramanga y San Gil.
+
+        72 ¿Cuándo se implementará en el resto del país?
+                  En el 2007 entrará en los distritos judiciales de Antioquia,
+                  Cundinamarca, Florencia, Ibagué, Neiva, Pasto, Popayán y
+                  Villavicencio. A partir de 2008 entrará a regir en todo el territorio
+                  nacional.
+
+        73 ¿Qué es Policía Judicial?
+                  Es la función que cumplen algunos organismos del Estado para
+                  apoyar la investigación penal, en el campo técnico, científico y
+                  operativo.
+
+        74 ¿Qué entidades cumplen funciones
+                  de policía judicial?
+                  De manera permanente los servidores del Cuerpo Técnico
+                  de Investigación de la Fiscalía; la policía judicial del
+                  Departamento Administrativo de Seguridad –DAS– y la policía
+                  judicial de la Policía Nacional (Dijín, Sijín). De manera especial
+                  la Procuraduría General de la Nación, la Contraloría, las entidades
+                  de vigilancia y control (superintendencias y personerías),
+                  las autoridades de tránsito, los servidores del Instituto Nacional
+                  Penitenciario y Carcelario –INPEC–, los alcaldes e inspectores
+                  de policía y en los lugares del territorio nacional donde no existan
+                  funcionarios de policía judicial permanente, esas funciones
+                  pueden ser desarrolladas por miembros de la Policía uniformada
+                  o de vigilancia.
+
+
+        75 ¿De quién depende la policía judicial?
+                  Los servidores de policía judicial dependen funcionalmente de
+                  la Fiscalía General de la Nación, con excepción de los de la
+                  Procuraduría.
+
+
+        76 ¿A quién corresponde manejar una escena
+                  del crimen?
+                  Básicamente a las autoridades de policía judicial, por el rigor
+                  técnico con el que deben realizarse los actos de investigación,
+                  para asegurar la preservación y recolección de evidencia.
+
+
+        77 ¿Qué actuaciones pueden realizar los
+                  miembros de la policía judicial
+                  por iniciativa propia?
+                  Los actos urgentes de investigación, como manejo de la escena
+                  del crimen, entrevistas, interrogatorios, búsqueda en bases de
+                  datos que no contengan información confidencial, allanamiento
+                  y registros en situaciones de flagrancia, aseguramiento de
+                  elementos materiales de prueba y registro de un inmueble
+                  cuando media el consentimiento del morador.
+
+        78 ¿Existen algunos actos de investigación que
+                  requieren orden previa del fiscal para que
+                  la policía judicial los pueda ejecutar?
+                  Sí, como el caso de la interceptación de comunicaciones, los
+                  allanamientos y registros, las operaciones encubiertas, las
+                  exhumaciones, la vigilancia y seguimientos de personas o de
+                  cosas, la recuperación de información al navegar vía internet y
+                  la búsqueda en bases de datos que contengan información
+                  confidencial.
+
+        79 ¿Existen actos de investigación que requieren
+                  orden previa de juez?
+                  Sí, como la inspección corporal, el registro personal, la obtención
+                  de muestras que involucren al imputado y otros que afecten
+                  derechos fundamentales.
+
+        80 ¿Cómo es la relación entre fiscal
+                  y policía judicial?
+                  Constituyen un equipo de trabajo. El Fiscal dirige y coordina la
+                  averiguación pero los actos de investigación son desplegados
+                  por la policía judicial. Juntos depuran la evidencia, consolidan
+                  una teoría del caso para acusar y demostrar en el juicio oral.
+
+        81 ¿Es posible que los funcionarios de policía judicial
+                  intervengan en el juicio oral?
+                  Sí, por cuanto ellos detectaron los elementos materiales de
+                  prueba y tienen que declarar sobre las circunstancias en que
+                  los encontraron. Además, los peritos, técnicos y científicos de
+                  policía judicial tienen que rendir sus dictámenes oralmente en
+                  el juicio público.
+
+        82 ¿Qué es cadena de custodia?
+                  Es un procedimiento que asegura la autenticidad de los
+                  elementos materiales de prueba (evidencias), es decir, que lo
+                  mismo que fue detectado debe ser lo mismo que va a ser objeto
+                  de prueba y de valoración. Garantiza que su integridad no ha
+                  sido sustituida o alterada a lo largo del proceso penal.
+
+        83 ¿Quién es responsable de la cadena de custodia?
+                  Toda persona que tenga contacto con los elementos materia
+                  de prueba o evidencias físicas.
+
+
+        84 ¿Qué va a pasar con las investigaciones
+                  relacionadas con hechos y conductas ocurridas
+                  antes de la vigencia del Sistema Penal Acusatorio?
+                  Continúan con el sistema anterior.
+
+
+        85 ¿Se modifica la actuación de la justicia penal
+                  militar con la entrada del Sistema Penal
+                  Acusatorio?
+                  En nada afecta la entrada en vigencia del sistema acusatorio
+                  para la investigación y juzgamiento de las conductas punibles
+                  cometidas por los militares en actos propios del servicio.
+
+
+        86 ¿Pueden los jueces en el nuevo sistema decretar
+                  la práctica de pruebas de oficio como ocurría
+                  en el anterior sistema?
+                  La regla general es que el juez no puede ordenar pruebas de
+                  oficio, pues perdería su imparcialidad. Las pruebas son de
+                  iniciativa de las partes. El juez, excepcionalmente, puede hacer
+                  preguntas complementarias a los testigos.
+
+
+        87 ¿En qué consiste la prueba anticipada?
+                  Cuando hay peligro de perder evidencias antes del juicio o es
+                  imposible aducir una prueba en el juicio oral, se admite la
+                  posibilidad de practicarla en forma anticipada ante el Juez de
+                  Control de Garantías. Por ejemplo, cuando un testigo tiene una
+                  enfermedad terminal y se considera que no va a sobrevivir para
+                  el momento del juicio oral. La prueba anticipada es practicada
+                  como si fuera durante un juicio oral, es decir, con la participación
+                  de las partes, contradicción y ante un juez imparcial, que es el
+                  de garantías.
+
+        88 ¿Cuál es el papel del Juez de Conocimiento
+                  en la audiencia del juicio oral?
+                  Decidir la controversia –si la evidencia muestra o no más allá
+                  de una duda razonable la responsabilidad penal del acusado–.
+                  Escuchar de manera imparcial el testimonio, la presentación y
+                  la contradicción de pruebas por las partes. Dirigir y coordinar
+                  toda la audiencia. Es el destinatario de las pruebas. Vela por
+                  que las intervenciones de las partes y testigos se hagan de
+                  conformidad con la ley. Decide sobre las objeciones u oposiciones
+                  a las preguntas y cuando termina la audiencia anuncia el sentido
+                  del fallo.
+
+        89 ¿Cuántas clases de testigos existen?
+                  Los testigos pueden ser clasificados en testigo de hechos, de
+                  acreditación, perito, de referencia y relativo a la credibilidad de
+                  otro.
+
+        90 ¿Quién es el testigo de hechos?
+                  Es el que presenció directamente el delito y en el juicio oral
+                  relata los hechos.
+
+        91 ¿Quién es el testigo de acreditación?
+                  Es la persona que no presenció los hechos objeto de inves-
+                  tigación, pero que en el juicio oral da cuenta de circunstancias
+                  relacionadas con elementos de prueba.
+                  Por intermedio de este testigo se presenta y acredita la evidencia.
+                  El ejemplo más claro de esta clase de testigo es el servidor de
+                  policía judicial que acude a la escena del crimen, detecta y
+                  recoge elementos físicos de pruebas. Él es testigo de acreditación
+                  en relación con las evidencias recolectadas en la escena.
+
+        92 ¿Quién es el testigo perito?
+                  No ha percibido los hechos, pero ofrece su conocimiento
+                  oralmente sobre aspectos que involucren conocimientos
+                  científicos, técnicos, artísticos o especializados, relacionados
+                  con el delito.
+
+        93 ¿Quién es el testigo de referencia?
+                  No tiene conocimiento directo de los hechos, sino a través de lo
+                  que terceras personas le han manifestado, pero su testimonio,
+                  generalmente, no puede ser aceptado como prueba en el juicio.
+                  Sólo excepcionalmente puede ser admitido, por ejemplo, cuando
+                  el testigo directo ha muerto o ha sido secuestrado. Son los
+                  llamados “testigos de oídas”.
+
+        94 ¿Cuál es el testigo relativo a credibilidad de otro?
+                  No tiene conocimiento sobre la conducta delictiva ocurrida, pero
+                  ofrece su testimonio sobre aspectos que pueden afectar la
+                  credibilidad o carácter de un testigo.
+
+
+        95 ¿Los testigos deben ser preparados por las partes
+                  antes de que rindan su testimonio en el juicio oral?
+                  Sí. Los deben preparar, pero no en el sentido de crear su
+                  testimonio o dirigir lo que debe testificar o para que falten a la
+                  verdad, sino para ilustrarlos sobre el procedimiento y las reglas
+                  que han de seguirse; los efectos jurídicos de su declaración;
+                  cuál va a ser el papel del interrogador, del contrainterrogador,
+                  del juez y del Ministerio Público; sus derechos y deberes; resaltar
+                  que la verdad está por encima de cualquier otra consideración;
+                  advertirle que no debe emitir opiniones y prever preguntas de
+                  la otra parte, entre otros aspectos.
+
+
+        96 ¿Cómo se desarrolla la declaración del testigo
+                  en el juicio oral?
+                  Se le recibe el juramento de no faltar a la verdad. Seguidamente,
+                  la parte que ofreció la prueba lo interroga y después la otra
+                  parte, si lo desea, lo contrainterroga. Todos los testigos se
+                  someten a preguntas y contrapreguntas.
+
+
+        97 ¿El fiscal puede hacer acuerdos con el procesado?
+                  Sí, para humanizar las actuaciones, solucionar los conflictos
+                  generados por la violación de la ley penal, obtener ayuda
+                  investigativa y testimonial contra otros delincuentes y propiciar
+                  la reparación efectiva de los daños y perjuicios causados.
+
+        98 ¿Qué resultados ha tenido el Sistema
+                  Penal Acusatorio?
+                  Un significativo éxito que mira con optimismo el futuro de la
+                  justicia penal. En el primer año, se produjeron cerca de ocho
+                  mil sentencias condenatorias y una reducción de más del 80
+                  por ciento en tiempo para decidir casos penales.
+
+
+        99 ¿Cuál ha sido el mayor impacto del Sistema
+                  Penal Acusatorio en la sociedad?
+                  La agilidad y rapidez son los mayores impactos con los que
+                  cuenta el nuevo sistema para administrar justicia. Sin duda, el
+                  desenvolvimiento por medio de audiencias permite que los
+                  medios de comunicación pongan en conocimiento de la comu-
+                  nidad los casos, como una manera de controlar colectivamente
+                  la calidad del trabajo de los jueces, fiscales, abogados y
+                  procuradores.
+                  Este sistema promueve a los buenos funcionarios y abogados,
+                  pero también pone en evidencia a los actores que no se preparan
+                  para hacer su trabajo en audiencia.
+
+
+       100 ¿Cómo han sido los resultados del Sistema
+                  Penal Acusatorio en materia
+                  de eficacia y garantía?
+                  Casos que en el sistema mixto se resolvían en años ahora se
+                  resuelven en meses. A pesar de las dificultades que entraña
+                  esta nueva forma de proceder, ya se han logrado éxitos en
+                  casos por homicidio, terrorismo y narcotráfico.
+                  Por otra parte, las personas tienen mayor confianza en la
+                  administración de justicia penal, pues aunque se sientan
+                  perseguidas por la Policía y la Fiscalía, al final confían en los
+                  controles posteriores de los jueces.
