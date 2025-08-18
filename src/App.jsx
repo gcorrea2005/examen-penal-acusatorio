@@ -27,7 +27,6 @@ export default function App() {
     if (saved !== null) {
       setModoOscuro(saved === 'true');
     } else {
-      // Detectar preferencia del sistema
       const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
       setModoOscuro(prefersDark);
     }
@@ -53,6 +52,45 @@ export default function App() {
     setUserAnswers([]);
   };
 
+  const handleExit = () => {
+    const confirmExit = window.confirm("¿Estás seguro de que deseas salir de la prueba?\nPerderás tu progreso actual.");
+    if (confirmExit) {
+      setSelectedTopic(null);
+      setCurrentQuestionIndex(0);
+      setUserAnswers([]);
+    }
+  };
+
+  const handleAnswerSelect = (answerIndex) => {
+    setUserAnswers(prev => {
+      const newAnswers = [...prev];
+      if (currentQuestionIndex >= newAnswers.length) {
+        newAnswers.length = currentQuestionIndex + 1;
+      }
+      newAnswers[currentQuestionIndex] = answerIndex;
+      return newAnswers;
+    });
+  };
+
+  const goToPrevious = () => {
+    if (currentQuestionIndex > 0) {
+      setCurrentQuestionIndex(currentQuestionIndex - 1);
+    }
+  };
+
+  const goToNext = () => {
+    if (currentQuestionIndex < questions.length - 1) {
+      setCurrentQuestionIndex(currentQuestionIndex + 1);
+    } else {
+      setCurrentQuestionIndex(currentQuestionIndex + 1);
+    }
+  };
+
+  const jumpToQuestion = (index) => {
+    setCurrentQuestionIndex(index);
+  };
+
+  // Si no hay tema seleccionado
   if (!selectedTopic) {
     return (
       <div className={modoOscuro ? 'dark' : 'light'}>
@@ -79,6 +117,7 @@ export default function App() {
 
   const questions = topics[selectedTopic];
 
+  // Si ya terminó todas las preguntas
   if (currentQuestionIndex >= questions.length) {
     const results = calculateResults(userAnswers, questions);
     return (
@@ -98,6 +137,26 @@ export default function App() {
         >
           {modoOscuro ? '☀️' : '🌙'}
         </button>
+
+        <button
+          onClick={handleExit}
+          style={{
+            position: 'absolute',
+            top: '20px',
+            left: '20px',
+            background: '#d32f2f',
+            color: 'white',
+            border: 'none',
+            borderRadius: '6px',
+            padding: '8px 16px',
+            fontSize: '14px',
+            cursor: 'pointer',
+            zIndex: 100
+          }}
+        >
+          🚪 Salir
+        </button>
+
         <ResultSummary
           results={results}
           questions={questions}
@@ -110,53 +169,49 @@ export default function App() {
   const currentQuestion = questions[currentQuestionIndex];
   const selectedAnswer = userAnswers[currentQuestionIndex] ?? null;
   const answeredStatus = questions.map((_, i) => userAnswers[i] !== undefined);
-
-    const handleAnswerSelect = (answerIndex) => {
-  setUserAnswers(prev => {
-    const newAnswers = [...prev];
-    // Asegura que el array tenga el tamaño necesario
-    if (newAnswers.length <= currentQuestionIndex) {
-      newAnswers.length = currentQuestionIndex + 1;
-    }
-    newAnswers[currentQuestionIndex] = answerIndex;
-    return newAnswers;
-  });
-};
-
-  const goToPrevious = () => {
-    if (currentQuestionIndex > 0) {
-      setCurrentQuestionIndex(currentQuestionIndex - 1);
-    }
-  };
-
-  const goToNext = () => {
-    if (currentQuestionIndex < questions.length - 1) {
-      setCurrentQuestionIndex(currentQuestionIndex + 1);
-    } else {
-      setCurrentQuestionIndex(currentQuestionIndex + 1);
-    }
-  };
-
-  const jumpToQuestion = (index) => {
-    setCurrentQuestionIndex(index);
-  };
+  const isLast = currentQuestionIndex === questions.length - 1;
 
   return (
     <div className={modoOscuro ? 'dark' : 'light'}>
+      {/* Botones de modo oscuro y salir */}
+      <div style={{
+        position: 'absolute',
+        top: '20px',
+        right: '20px',
+        display: 'flex',
+        gap: '10px',
+        zIndex: 100
+      }}>
+        <button
+          onClick={toggleModo}
+          style={{
+            background: 'none',
+            border: 'none',
+            fontSize: '24px',
+            cursor: 'pointer'
+          }}
+        >
+          {modoOscuro ? '☀️' : '🌙'}
+        </button>
+      </div>
+
       <button
-        onClick={toggleModo}
+        onClick={handleExit}
         style={{
           position: 'absolute',
           top: '20px',
-          right: '20px',
-          background: 'none',
+          left: '20px',
+          background: '#d32f2f',
+          color: 'white',
           border: 'none',
-          fontSize: '24px',
+          borderRadius: '6px',
+          padding: '8px 16px',
+          fontSize: '14px',
           cursor: 'pointer',
           zIndex: 100
         }}
       >
-        {modoOscuro ? '☀️' : '🌙'}
+        🚪 Salir
       </button>
 
       <ProgressTracker
@@ -173,7 +228,7 @@ export default function App() {
         selected={selectedAnswer}
         onSelect={handleAnswerSelect}
         onNext={goToNext}
-        isLast={currentQuestionIndex === questions.length - 1}
+        isLast={isLast}
         modoOscuro={modoOscuro}
       />
     </div>
