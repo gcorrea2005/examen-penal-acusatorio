@@ -1,14 +1,22 @@
-# Examen de Opción Múltiple
+# Examen de Sistema Penal Acusatorio
 
-Aplicación interactiva para evaluar conocimientos con retroalimentación.
+App educativa para evaluar conocimientos sobre el Sistema Penal Acusatorio colombiano.
 
-## 🚀 Funcionalidades
-- Selección de temas
-- Preguntas con explicaciones
-- Resumen de aciertos y errores
-- Compatible con modo oscuro
+## 📚 Temas incluidos
+- Fundamentos del sistema
+- Actores del proceso penal
+- Investigación y pruebas
+- Audiencias y etapas
+- Resultados del sistema
+- Derecho constitucional
 
-## ▶️ Ejecutar
+## 🚀 Tecnologías
+- React + Vite
+- JavaScript
+- Diseño responsive
+- Modo oscuro
+
+## ▶️ Ejecutar localmente
 ```bash
 npm install
 npm run dev
