@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { Routes, Route, useNavigate } from 'react-router-dom';
+import Header from './components/Header.jsx';
 import TopicSelector from './components/TopicSelector.jsx';
 import QuestionCard from './components/QuestionCard.jsx';
 import ResultSummary from './components/ResultSummary.jsx';
@@ -9,7 +10,6 @@ import ProgressTracker from './components/ProgressTracker.jsx';
 import Creditos from './components/Creditos.jsx';
 import { topics } from './data/questions.js';
 
-// Componente para manejar la navegación
 function AppContent() {
   const [selectedTopic, setSelectedTopic] = useState(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -17,18 +17,15 @@ function AppContent() {
   const [modoOscuro, setModoOscuro] = useState(false);
   const navigate = useNavigate();
 
-  // Cargar preferencia del modo oscuro
   useEffect(() => {
     const saved = localStorage.getItem('modoOscuro');
     if (saved !== null) {
       setModoOscuro(saved === 'true');
     } else {
-      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      setModoOscuro(prefersDark);
+      setModoOscuro(window.matchMedia('(prefers-color-scheme: dark)').matches);
     }
   }, []);
 
-  // Guardar en localStorage
   useEffect(() => {
     localStorage.setItem('modoOscuro', modoOscuro);
     if (modoOscuro) {
@@ -38,19 +35,8 @@ function AppContent() {
     }
   }, [modoOscuro]);
 
-  const toggleModo = () => {
-    setModoOscuro(!modoOscuro);
-  };
-
-  const handleTopicSelect = (topic) => {
-    setSelectedTopic(topic);
-    setCurrentQuestionIndex(0);
-    setUserAnswers([]);
-  };
-
   const handleExit = () => {
-    const confirmExit = window.confirm("¿Estás seguro de que deseas salir de la prueba?\nPerderás tu progreso actual.");
-    if (confirmExit) {
+    if (window.confirm("¿Estás seguro de que deseas salir de la prueba?\nPerderás tu progreso actual.")) {
       setSelectedTopic(null);
       setCurrentQuestionIndex(0);
       setUserAnswers([]);
@@ -61,18 +47,10 @@ function AppContent() {
   const handleAnswerSelect = (answerIndex) => {
     setUserAnswers(prev => {
       const newAnswers = [...prev];
-      if (currentQuestionIndex >= newAnswers.length) {
-        newAnswers.length = currentQuestionIndex + 1;
-      }
+      if (currentQuestionIndex >= newAnswers.length) newAnswers.length = currentQuestionIndex + 1;
       newAnswers[currentQuestionIndex] = answerIndex;
       return newAnswers;
     });
-  };
-
-  const goToPrevious = () => {
-    if (currentQuestionIndex > 0) {
-      setCurrentQuestionIndex(currentQuestionIndex - 1);
-    }
   };
 
   const goToNext = () => {
@@ -83,29 +61,24 @@ function AppContent() {
     }
   };
 
+  const goToPrevious = () => {
+    if (currentQuestionIndex > 0) {
+      setCurrentQuestionIndex(currentQuestionIndex - 1);
+    }
+  };
+
   const jumpToQuestion = (index) => {
     setCurrentQuestionIndex(index);
   };
 
   if (!selectedTopic) {
     return (
-      <div className={modoOscuro ? 'dark' : 'light'}>
-        <button
-          onClick={toggleModo}
-          style={{
-            position: 'absolute',
-            top: '20px',
-            right: '20px',
-            background: 'none',
-            border: 'none',
-            fontSize: '24px',
-            cursor: 'pointer'
-          }}
-        >
-          {modoOscuro ? '☀️' : '🌙'}
-        </button>
-        <TopicSelector onSelectTopic={handleTopicSelect} />
-      </div>
+      <>
+        <Header onHome={() => navigate('/')} onCreditos={() => navigate('/creditos')} />
+        <div style={{ marginTop: '80px' }}>
+          <TopicSelector onSelectTopic={setSelectedTopic} />
+        </div>
+      </>
     );
   }
 
@@ -119,46 +92,15 @@ function AppContent() {
     }));
 
     return (
-      <div className={modoOscuro ? 'dark' : 'light'}>
-        <button
-          onClick={toggleModo}
-          style={{
-            position: 'absolute',
-            top: '20px',
-            right: '20px',
-            background: 'none',
-            border: 'none',
-            fontSize: '24px',
-            cursor: 'pointer'
-          }}
-        >
-          {modoOscuro ? '☀️' : '🌙'}
-        </button>
-
-        <button
-          onClick={handleExit}
-          style={{
-            position: 'absolute',
-            top: '20px',
-            left: '20px',
-            background: '#d32f2f',
-            color: 'white',
-            border: 'none',
-            borderRadius: '6px',
-            padding: '8px 16px',
-            fontSize: '14px',
-            cursor: 'pointer'
-          }}
-        >
-          🚪 Salir
-        </button>
-
-        <ResultSummary
-          results={results}
-          questions={questions}
-          onRestart={() => setSelectedTopic(null)}
-        />
-      </div>
+      <>
+        <Header onHome={() => navigate('/')} onCreditos={() => navigate('/creditos')} />
+        <div style={{ marginTop: '80px', minHeight: 'calc(100vh - 180px)', padding: '20px' }}>
+          <ResultSummary results={results} questions={questions} onRestart={() => setSelectedTopic(null)} />
+        </div>
+        <div style={exitButtonContainerStyle}>
+          <button onClick={handleExit} style={exitButtonStyle}>🚪 Salir de la prueba</button>
+        </div>
+      </>
     );
   }
 
@@ -168,62 +110,32 @@ function AppContent() {
   const isLast = currentQuestionIndex === questions.length - 1;
 
   return (
-    <div className={modoOscuro ? 'dark' : 'light'}>
-      <button
-        onClick={toggleModo}
-        style={{
-          position: 'absolute',
-          top: '20px',
-          right: '20px',
-          background: 'none',
-          border: 'none',
-          fontSize: '24px',
-          cursor: 'pointer'
-        }}
-      >
-        {modoOscuro ? '☀️' : '🌙'}
-      </button>
-
-      <button
-        onClick={handleExit}
-        style={{
-          position: 'absolute',
-          top: '20px',
-          left: '20px',
-          background: '#d32f2f',
-          color: 'white',
-          border: 'none',
-          borderRadius: '6px',
-          padding: '8px 16px',
-          fontSize: '14px',
-          cursor: 'pointer'
-        }}
-      >
-        🚪 Salir
-      </button>
-
-      <ProgressTracker
-        current={currentQuestionIndex}
-        total={questions.length}
-        onPrevious={goToPrevious}
-        onNext={goToNext}
-        onJump={jumpToQuestion}
-        answered={answeredStatus}
-      />
-
-      <QuestionCard
-        question={currentQuestion}
-        selected={selectedAnswer}
-        onSelect={handleAnswerSelect}
-        onNext={goToNext}
-        isLast={isLast}
-        modoOscuro={modoOscuro}
-      />
-    </div>
+    <>
+      <Header onHome={() => navigate('/')} onCreditos={() => navigate('/creditos')} />
+      <div style={{ marginTop: '80px', minHeight: 'calc(100vh - 180px)', padding: '20px' }}>
+        <ProgressTracker
+          current={currentQuestionIndex}
+          total={questions.length}
+          onPrevious={goToPrevious}
+          onNext={goToNext}
+          onJump={jumpToQuestion}
+          answered={answeredStatus}
+        />
+        <QuestionCard
+          question={currentQuestion}
+          selected={selectedAnswer}
+          onSelect={handleAnswerSelect}
+          onNext={goToNext}
+          isLast={isLast}
+        />
+      </div>
+      <div style={exitButtonContainerStyle}>
+        <button onClick={handleExit} style={exitButtonStyle}>🚪 Salir de la prueba</button>
+      </div>
+    </>
   );
 }
 
-// Componente principal con rutas
 export default function App() {
   return (
     <Routes>
@@ -232,3 +144,23 @@ export default function App() {
     </Routes>
   );
 }
+
+const exitButtonContainerStyle = {
+  padding: '20px',
+  textAlign: 'center',
+  borderTop: '1px solid #ddd',
+  backgroundColor: '#f8f9fa'
+};
+
+const exitButtonStyle = {
+  background: '#d32f2f',
+  color: 'white',
+  border: 'none',
+  borderRadius: '6px',
+  padding: '12px 24px',
+  fontSize: '16px',
+  fontWeight: 'bold',
+  cursor: 'pointer',
+  width: '100%',
+  maxWidth: '300px'
+};

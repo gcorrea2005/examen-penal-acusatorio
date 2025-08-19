@@ -1746,5 +1746,1925 @@ export const topics = {
       correct: 2,
       explanation: "Trabajadores oficiales. Según la Corte Constitucional."
     }
+  ],
+
+  competencia_administrativa_02: [
+    {
+      id: 1,
+      question: "1. Se cumple tanto para el constructor como para sus obreros, quienes realizan obras para la administración, con base en un contrato de obras públicas; son considerados como:",
+      options: [
+        "Trabajadores oficiales",
+        "Empleados públicos",
+        "Servidores públicos",
+        "No servidores públicos"
+      ],
+      correct: 3,
+      explanation: "No servidores públicos. No tienen vínculo directo de empleo con el Estado, sino contractual. No se rigen por el estatuto del servidor público."
+    },
+    {
+      id: 2,
+      question: "2. Se cumple para las personas a quienes el gobierno o las corporaciones públicas confieren su representación en las juntas directivas de las Entidades Descentralizadas; son consideradas como:",
+      options: [
+        "Trabajadores oficiales",
+        "Empleados de libre nombramiento y remoción",
+        "Servidores públicos",
+        "No servidores públicos"
+      ],
+      correct: 3,
+      explanation: "No servidores públicos. Según el decreto 2400 de 1968 y el decreto 1950 de 1973, los representantes en juntas directivas no son servidores públicos, sino delegados temporales."
+    },
+    {
+      id: 3,
+      question: "3. Se cumple para las auxiliares de la Administración pública como los peritos, jurados de votación y obreros temporales; son considerados como:",
+      options: [
+        "Trabajadores oficiales",
+        "Servidores públicos",
+        "Empleados públicos",
+        "No servidores públicos"
+      ],
+      correct: 3,
+      explanation: "No servidores públicos. Son colaboradores ocasionales, sin vínculo laboral o de empleo permanente con la administración."
+    },
+    {
+      id: 4,
+      question: "4. Tienen normas propias todos los empleados públicos de las siguientes Carreras Administrativas especiales, Excepto:",
+      options: [
+        "Las Alcaldías",
+        "La Procuraduría General de la Nación",
+        "La rama judicial del poder público",
+        "La Defensoría del pueblo"
+      ],
+      correct: 0,
+      explanation: "Las Alcaldías. No tienen un régimen especial de carrera administrativa propio; se rigen por normas generales y locales."
+    },
+    {
+      id: 5,
+      question: "5. Tienen normas propias todos los empleados públicos de las siguientes Carreras Administrativas, Excepto:",
+      options: [
+        "Las gobernaciones",
+        "La Contraloría General de la República y Territoriales",
+        "La Fiscalía General de la Nación",
+        "Los entes universitarios autónomos"
+      ],
+      correct: 0,
+      explanation: "Las Gobernaciones. No tienen un régimen especial de carrera administrativa; se rigen por la Ley 909 de 2004 sin normas propias diferenciadas."
+    },
+    {
+      id: 6,
+      question: "6. Tienen normas propias todos los empleados públicos de las siguientes carreras administrativas especiales, Excepto:",
+      options: [
+        "La carrera docente",
+        "El personal de los Ministerios",
+        "La carrera diplomática y consular",
+        "El personal de carrera del Congreso de la República"
+      ],
+      correct: 1,
+      explanation: "El personal de los Ministerios. No tiene un régimen especial propio; se rige por la Ley 909 de 2004 sin estatuto diferenciado."
+    },
+    {
+      id: 7,
+      question: "7. Tienen normas propias todos los empleados públicos de los siguientes sistemas específicos de carreras administrativas, Excepto:",
+      options: [
+        "El personal de la DIAN",
+        "El personal del departamento Administrativo de Seguridad DAS",
+        "El personal del INPEC",
+        "El personal de los Establecimientos Públicos"
+      ],
+      correct: 3,
+      explanation: "El personal de los establecimientos públicos. No tiene un régimen de carrera específica; se rige por normas generales o laborales, no por un estatuto especial."
+    },
+    {
+      id: 8,
+      question: "8. Tienen normas propias todos los empleados públicos de los siguientes sistemas específicos de Carrera Administrativa, Excepto:",
+      options: [
+        "El personal del Departamento Administrativo de la Presidencia de la República",
+        "El personal del Sistema Nacional de Ciencia y Tecnología",
+        "El personal de las Superintendencias",
+        "El personal administrativo de los entes de Educación Superior que no sean instituciones universitarias autónomas"
+      ],
+      correct: 3,
+      explanation: "El personal administrativo de los entes de educación superior que no sean instituciones universitarias autónomas. No tiene un régimen especial de carrera administrativa. Según el artículo 3 de la Ley 909 de 2004."
+    },
+    {
+      id: 9,
+      question: "9. Se cumple para quienes desempeñen empleos en las entidades de la Rama Ejecutiva del nivel nacional y de sus entes descentralizados:",
+      options: [
+        "Se consideran trabajadores oficiales",
+        "Se les aplicarán las normas de la carrera administrativa",
+        "Se les aplicarán las normas para trabajadores públicos",
+        "Se consideran empleados de libre nombramiento y remoción"
+      ],
+      correct: 1,
+      explanation: "Se les aplicarán las normas de la carrera administrativa. Según el Art. 3 de la Ley 909 de 2004."
+    },
+    {
+      id: 10,
+      question: "10. La ley de carrera administrativa se aplica integralmente a todos los empleados públicos que presten sus servicios en empleos de Carrera en las siguientes Entidades, Excepto:",
+      options: [
+        "En las Personerías",
+        "En las Corporaciones Autónomas Regionales",
+        "En la Comisión Nacional del Servicio Civil",
+        "En los entes Universitarios Autónomos"
+      ],
+      correct: 3,
+      explanation: "En los entes Universitarios Autónomos. Según el Art. 3 de la Ley 909 de 2004, no se les aplica la ley de carrera administrativa por su autonomía."
+    },
+    {
+      id: 11,
+      question: "11. La ley de Carrera Administrativa se aplica integralmente a todos los empleados públicos que prestan sus servicios en empleos de Carrera, en las siguientes entidades, Excepto:",
+      options: [
+        "En la Contaduría General de la Nación",
+        "En la Comisión Nacional de Televisión",
+        "En la Auditoría General de la República",
+        "En el DAS, los de carrera específica"
+      ],
+      correct: 3,
+      explanation: "En el DAS, los de carrera específica. Tienen un régimen especial propio, no se rige por la Ley 909 de 2004."
+    },
+    {
+      id: 12,
+      question: "12. La ley de Carrera Administrativa se aplica en toda su integridad a todos los empleados públicos que prestan sus servicios en empleos de carrera, en las siguientes entidades, Excepto:",
+      options: [
+        "En la Rama Judicial del Poder Público",
+        "En la Auditoría General de la República",
+        "En la Contaduría General de la Nación",
+        "En las entidades territoriales, llamadas Departamentos"
+      ],
+      correct: 0,
+      explanation: "En la rama judicial del poder público. Tiene su propio estatuto (Ley 270 de 1996), no se rige por la Ley 909 de 2004."
+    },
+    {
+      id: 13,
+      question: "13. La ley de Carrera Administrativa se aplica en toda su integridad, a todos los empleados públicos que prestan sus servicios en empleos de Carrera, Excepto:",
+      options: [
+        "En las entidades Territoriales como los Municipios",
+        "Procuraduría General de la Nación",
+        "En las entidades Territoriales como los Distritos",
+        "En los entes Descentralizados de los Departamentos"
+      ],
+      correct: 1,
+      explanation: "Procuraduría General de la Nación. Tiene un régimen especial de carrera propia (Ley 200 de 1995), no se rige por la Ley 909 de 2004."
+    },
+    {
+      id: 14,
+      question: "14. La ley de Carrera Administrativa se aplica en toda su integridad, a todos los empleados públicos que prestan sus servicios en empleos de Carrera, Excepto:",
+      options: [
+        "Al personal colombiano administrativo del Ministerio de Relaciones Exteriores",
+        "Al personal administrativo de las Instituciones de Educación formal del nivel Preescolar",
+        "En la Defensoría del Pueblo",
+        "En las entidades descentralizadas adscritas al Ministerio de Defensa Nacional"
+      ],
+      correct: 2,
+      explanation: "En la Defensoría del Pueblo. Tiene un régimen especial de carrera (Ley 247 de 1995), no se rige por la Ley 909 de 2004."
+    },
+    {
+      id: 15,
+      question: "15. La ley de Carrera Administrativa se aplica en toda su integridad, a todos los empleados públicos, que prestan sus servicios en empleos de Carrera, Excepto:",
+      options: [
+        "En la Contraloría General de la Nación",
+        "En las entidades Descentralizadas adscritas a las Fuerzas Militares",
+        "Al personal administrativo de la educación formal del nivel básico",
+        "Al personal civil no uniformado del Ministerio de Defensa Nacional"
+      ],
+      correct: 0,
+      explanation: "En la Contraloría General de la Nación. Tiene un régimen especial de carrera (Ley 42 de 1993), no se rige por la Ley 909 de 2004."
+    },
+    {
+      id: 16,
+      question: "16. La ley de Carrera Administrativa se aplica en toda su integridad, a todos los empleados públicos, que presten sus servicios en empleos de Carrera, Excepto:",
+      options: [
+        "Al personal Administrativo de la educación formal del nivel medio",
+        "En las entidades descentralizadas adscritas a la Policía Nacional",
+        "En la Fiscalía General de la Nación",
+        "A los comisarios de familia. Según la ley 575 de 2.000"
+      ],
+      correct: 2,
+      explanation: "En la Fiscalía General de la Nación. Tiene un régimen especial de carrera (Ley 25 de 1992), no se rige por la Ley 909 de 2004."
+    },
+    {
+      id: 17,
+      question: "17. Según el artículo 3º de la ley 909 de 2004, son todas Carrera Administrativas especiales, Excepto en:",
+      options: [
+        "Las Corporaciones Autónomas Regionales",
+        "La Rama Judicial del Poder Público",
+        "La Procuraduría General de la Nación",
+        "La Defensoría del Pueblo"
+      ],
+      correct: 0,
+      explanation: "Las Corporaciones Autónomas Regionales. No tienen un régimen especial de carrera administrativa; se rigen por normas generales."
+    },
+    {
+      id: 18,
+      question: "18. Según el Art. 3º de la ley 909 de 2004, son todas Carreras Administrativas especiales, Excepto en:",
+      options: [
+        "Las contralorías Territoriales",
+        "Las personerías",
+        "La Contraloría General de la República",
+        "La Fiscalía General de la Nación"
+      ],
+      correct: 1,
+      explanation: "Las Personerías. No tienen un régimen especial de carrera; se rigen por la Ley 909 de 2004 sin estatuto propio."
+    },
+    {
+      id: 19,
+      question: "19. Según el Art. 3º de la ley 909 de 2004, son todas Carreras Administrativas especiales, Excepto en:",
+      options: [
+        "Los entes Universitarios Autónomos",
+        "El de la Comisión Nacional de Televisión",
+        "El personal regido por la Carrera Diplomática y Consular",
+        "El del personal Docente"
+      ],
+      correct: 1,
+      explanation: "El de la Comisión Nacional de Televisión. No tiene un régimen especial de carrera administrativa; se rige por normas generales."
+    },
+    {
+      id: 20,
+      question: "20. Según el Art. 3º de la ley 909 de 2004, la ley de Carrera Administrativa se aplica en toda su integridad, a todos los servidores públicos de Carrera, Excepto:",
+      options: [
+        "A las Personerías",
+        "A la Auditoría General de la República",
+        "A la Comisión Nacional de Televisión",
+        "Al personal del Congreso de la República"
+      ],
+      correct: 3,
+      explanation: "Al personal del Congreso de la República. Tiene un régimen especial de carrera (Ley 5 de 1992), no se rige por la Ley 909 de 2004."
+    },
+    {
+      id: 21,
+      question: "21. Aquellas carreras administrativas que por la especialidad de las funciones que cumplen las entidades en los cuales se aplican; contienen regulaciones propias para el desarrollo y aplicación de dicha carrera, se llama:",
+      options: [
+        "Carrera Administrativa Canónica",
+        "Carrera Administrativa Especial",
+        "Carrera Administrativa Específica",
+        "Carrera Administrativa Ejecutiva"
+      ],
+      correct: 2,
+      explanation: "Carrera Administrativa Específica. Según el Art. 4 de la Ley 909 de 2004."
+    },
+    {
+      id: 22,
+      question: "22. La carrera administrativa que rige para el personal que presta sus servicios en el Departamento Administrativo de Seguridad (DAS), se clasifica como una:",
+      options: [
+        "Carrera Administrativa Especial",
+        "Carrera Administrativa Canónica",
+        "Carrera Administrativa Específica",
+        "Carrera Administrativa Ejecutiva"
+      ],
+      correct: 2,
+      explanation: "Carrera Administrativa Específica. Según el Art. 4 de la Ley 909 de 2004."
+    },
+    {
+      id: 23,
+      question: "23. La carrera administrativa que rige para el personal que presta sus servicios en el Instituto Nacional Penitenciario y Carcelario (INPEC), se clasifica como una:",
+      options: [
+        "Carrera Administrativa Especial",
+        "Carrera Administrativa Canónica",
+        "Carrera Administrativa Específica",
+        "Carrera Administrativa Ejecutiva"
+      ],
+      correct: 2,
+      explanation: "Carrera Administrativa Específica. Según el Art. 4 de la Ley 909 de 2004."
+    },
+    {
+      id: 24,
+      question: "24. La carrera Administrativa que rige para el personal de la Unidad Administrativa Especial de Impuestos de Aduanas Nacionales (DIAN), se clasifica como una:",
+      options: [
+        "Carrera Administrativa Regular",
+        "Carrera Administrativa Específica",
+        "Carrera Administrativa Especial",
+        "Carrera Administrativa Ejecutiva"
+      ],
+      correct: 1,
+      explanation: "Carrera Administrativa Específica."
+    },
+    {
+      id: 25,
+      question: "25. La carrera Administrativa que rige para el personal científico y tecnológico de las entidades públicas que conforman el Sistema Nacional de Ciencias y Tecnología, se clasifica como una:",
+      options: [
+        "Carrera Administrativa Ejecutiva",
+        "Carrera Administrativa Especial",
+        "Carrera Administrativa Regular",
+        "Carrera Administrativa específica"
+      ],
+      correct: 3,
+      explanation: "Carrera Administrativa específica. Según el Art. 4 de la Ley 909 de 2004."
+    },
+    {
+      id: 26,
+      question: "26. La Carrera Administrativa que rige para el personal que presta sus servicios en las superintendencias, se clasifica como una:",
+      options: [
+        "Carrera Administrativa Regular",
+        "Carrera Administrativa Específica",
+        "Carrera Administrativa Especial",
+        "Carrera Administrativa Ejecutiva"
+      ],
+      correct: 1,
+      explanation: "Carrera Administrativa Específica. Según el Art. 4 de la Ley 909 de 2004."
+    },
+    {
+      id: 27,
+      question: "27. La Carrera Administrativa que rige para el personal que presta sus servicios en el Departamento Administrativo de la Presidencia de la República, se clasifica como una:",
+      options: [
+        "Carrera Administrativa Especial",
+        "Carrera Administrativa Ejecutiva",
+        "Carrera Administrativa Regular",
+        "Carrera Administrativa Específica"
+      ],
+      correct: 3,
+      explanation: "Carrera Administrativa Específica. Según el Art. 4 de la Ley 909 de 2004."
+    },
+    {
+      id: 28,
+      question: "28. La carrera Administrativa que rige para el personal que presta sus servicios en la Unidad Administrativa Especial de la Aeronáutica Civil, se clasifica como una:",
+      options: [
+        "Carrera Administrativa Específica",
+        "Carrera Administrativa Regular",
+        "Carrera Administrativa Ejecutiva",
+        "Carrera Administrativa Especial"
+      ],
+      correct: 0,
+      explanation: "Carrera Administrativa Específica. Según el Art. 4 de la Ley 909 de 2004."
+    },
+    {
+      id: 29,
+      question: "29. La vigilancia para los sistemas de Carreras Administrativas Específicas estará a cargo de:",
+      options: [
+        "La Comisión Nacional del Servicio Civil",
+        "La respectiva Gerencia de la entidad",
+        "La Contraloría General de la República",
+        "La Secretaría General de la Presidencia de La República"
+      ],
+      correct: 0,
+      explanation: "La Comisión Nacional del Servicio Civil. Según el Art. 4 de la Ley 909 de 2004."
+    },
+    {
+      id: 30,
+      question: "30. Al conjunto de funciones, tareas y responsabilidades que se asignan a una persona y las competencias requeridas para llevarlas a cabo, con el propósito de satisfacer el cumplimiento de los planes de desarrollo y los fines del Estado, se llama:",
+      options: [
+        "Empleo público",
+        "Carrera Administrativa Especial",
+        "Carrera Administrativa",
+        "Empleo oficial"
+      ],
+      correct: 0,
+      explanation: "Empleo público. Según el Art. 19 de la Ley 909 de 2004."
+    }
+  ],
+
+  competencia_administrativa_03: [
+    {
+      id: 1,
+      question: "1. Por mandato constitucional y legal, los empleos públicos, en los órganos y entidades del estado colombiano son de Carrera Administrativa:",
+      options: [
+        "Los de las personerías",
+        "Los de las corporaciones autónomas regionales",
+        "Los de libre nombramiento y remoción",
+        "Los de la Auditoría General de la Nación"
+      ],
+      correct: 2,
+      explanation: "Los de libre nombramiento y remoción. Según el Art. 1 de la Ley 909 de 2004."
+    },
+    {
+      id: 2,
+      question: "2. La regulación del sistema del empleo público y el establecimiento de los principios básicos que deben regular el ejercicio de la Gerencia pública, es el objeto principal de:",
+      options: [
+        "La ley 100 de 1993",
+        "La ley 909 de 2004 de carrera Administrativa",
+        "La Constitución Nacional",
+        "La ley 80 de 1993 de contratación administrativa"
+      ],
+      correct: 1,
+      explanation: "La ley 909 de 2004 de carrera Administrativa. Según el Art. 1 de la ley 909 de 2004."
+    },
+    {
+      id: 3,
+      question: "3. Quienes ejercen los cargos de mayor jerarquía en las entidades de las tres ramas u órganos del poder público, en los niveles nacional, departamental, regional, provincial, distrital y municipal, deben:",
+      options: [
+        "Ser mínimo el 10% de mujeres",
+        "Ser mínimo el 20% de mujeres",
+        "Ser mínimo el 25% de mujeres",
+        "Ser mínimo el 30% de mujeres"
+      ],
+      correct: 3,
+      explanation: "Ser mínimo el 30% de mujeres. Según la ley 581 del 2000."
+    },
+    {
+      id: 4,
+      question: "4. Se cumple para la carrera administrativa, excepto:",
+      options: [
+        "Es para los empleados públicos",
+        "No se requiere que el 30% sean mujeres",
+        "Es para los empleados de las personerías",
+        "Es para los empleados de las gobernaciones"
+      ],
+      correct: 1,
+      explanation: "No se requiere que el 30% sean mujeres. Según la ley 581 del 2000."
+    },
+    {
+      id: 5,
+      question: "5. En los casos de ingreso y ascenso en la carrera administrativa, realizada mediante concursos de méritos y calificación de pruebas, será obligatoria ___________________ como autoridades encargadas de efectuar la calificación.",
+      options: [
+        "La participación de la personería respectiva",
+        "La participación de la defensoría del pueblo",
+        "La participación del 30% de mujeres",
+        "La participación de hombres y mujeres en igual proporción"
+      ],
+      correct: 3,
+      explanation: "La participación de hombres y mujeres en igual proporción. Según la ley 581 del 2000."
+    },
+    {
+      id: 6,
+      question: "6. Quienes prestan servicios personales remunerados, con vinculación legal y reglamentaria, en los organismos y entidades de la administración pública, se cumple que:",
+      options: [
+        "Constituyen la función del servicio",
+        "Conforman la función pública",
+        "Conforman la función oficial",
+        "Constituyen la función del servicio temporal"
+      ],
+      correct: 1,
+      explanation: "Conforman la función pública. Según el Art. 1 de la ley 909 de 2004."
+    },
+    {
+      id: 7,
+      question: "7. Son funciones de _________________ asegurar la atención y satisfacción de los intereses de la comunidad:",
+      options: [
+        "La función privada",
+        "La función pública",
+        "Las leyes relacionadas con el menor",
+        "Las leyes del Derecho Administrativo"
+      ],
+      correct: 1,
+      explanation: "La función pública. Según el Art. 1 de la ley 909 de 2004."
+    },
+    {
+      id: 8,
+      question: "8. El estado tiene el deber de garantizarle a todos los ciudadanos el mismo derecho, la misma protección, las mismas libertades y oportunidades, sin ninguna discriminación, este es el principio de la función pública llamado:",
+      options: [
+        "Principio de moralidad",
+        "Principio de mérito",
+        "Principio de igualdad",
+        "Principio de eficacia"
+      ],
+      correct: 2,
+      explanation: "Principio de igualdad. Según el Art. 2 de la ley 909 de 2004."
+    },
+    {
+      id: 9,
+      question: "9. Dice la Constitución Política en su Art. 40 numeral 7: 'Todo ciudadano tiene derecho a acceder al desempeño de funciones y cargos públicos', aquí se consagra el principio de la función pública, llamado:",
+      options: [
+        "Principio de igualdad",
+        "Principio de mérito",
+        "Principio de economía",
+        "Principio de publicidad"
+      ],
+      correct: 0,
+      explanation: "Principio de igualdad."
+    },
+    {
+      id: 10,
+      question: "10. Dice la ley 909 de 2004 en el Art. 27 literal B: 'Todos los ciudadanos que acrediten los requisitos determinados en las convocatorias podrán participar en los concursos sin discriminación de ninguna índole', aquí se consagra el principio de la función pública, llamado:",
+      options: [
+        "Principio de igualdad",
+        "Principio de mérito",
+        "Principio de eficacia",
+        "Principio de publicidad"
+      ],
+      correct: 0,
+      explanation: "Principio de igualdad."
+    },
+    {
+      id: 11,
+      question: "11. Dice la ley 909 de 2004 en el Art. 49 numeral 2: 'Para la designación del empleo público, se tendrá en cuenta la capacidad y experiencia para el desempeño del empleo', aquí se consagra el principio de la función pública, llamado:",
+      options: [
+        "Principio de igualdad",
+        "Principio de eficacia",
+        "Principio de mérito",
+        "Principio de publicidad"
+      ],
+      correct: 2,
+      explanation: "Principio de mérito."
+    },
+    {
+      id: 12,
+      question: "12. Dice la ley 909 de 2004 en su Art. 37 literal A: 'La permanencia en los cargos de carrera administrativa exige la calificación satisfactoria en el desempeño del empleo, el logro de resultados y realizaciones el desarrollo y ejercicio de la función pública', aquí se consagra el principio de:",
+      options: [
+        "La publicidad",
+        "La moralidad",
+        "La economía",
+        "Mérito"
+      ],
+      correct: 3,
+      explanation: "Mérito"
+    },
+    {
+      id: 13,
+      question: "13. Los servidores públicos tienen la obligación de actuar con rectitud, lealtad, ética y observar los valores sociales de la comunidad, este es el principio de la función pública de:",
+      options: [
+        "La igualdad",
+        "La moralidad",
+        "La eficacia",
+        "La imparcialidad"
+      ],
+      correct: 1,
+      explanation: "La moralidad."
+    },
+    {
+      id: 14,
+      question: "14. _____________________ en los procesos de selección para garantizar la adecuación de los candidatos seleccionados al perfil del empleo, así consagra la ley 909 de 2004 en su Art. 28, literal H, el principio de la función pública llamado:",
+      options: [
+        "La confiabilidad",
+        "La eficacia",
+        "La publicidad",
+        "La igualdad"
+      ],
+      correct: 1,
+      explanation: "La eficacia."
+    },
+    {
+      id: 15,
+      question: "15. En virtud del principio de _________________ los servidores públicos tendrán en cuenta que los procedimientos deben lograr su finalidad, removiendo de oficio los obstáculos puramente formales, así está consagrado en el código contencioso administrativo, Art. 3º:",
+      options: [
+        "Igualdad",
+        "Imparcialidad",
+        "Eficacia",
+        "Moralidad"
+      ],
+      correct: 2,
+      explanation: "Eficacia"
+    },
+    {
+      id: 16,
+      question: "16. Los servidores públicos tienen el deber de impulsar oficiosamente los procedimientos y no deben someterlos a retardos injustificados, aquí se enuncia el principio de la función pública denominado:",
+      options: [
+        "Eficacia",
+        "Igualdad",
+        "Celeridad",
+        "Economía"
+      ],
+      correct: 2,
+      explanation: "Celeridad"
+    },
+    {
+      id: 17,
+      question: "17. Los servidores públicos deben propender para que los procedimientos se adelanten en el menor tiempo posible y con la menor cantidad de gastos de quienes intervienen en ellos, por lo tanto solo se exigirán los documentos y copias estrictamente necesarios, aquí se configura el principio de la función pública, llamado:",
+      options: [
+        "Principio de igualdad",
+        "Principio de economía",
+        "Principio de eficacia",
+        "Principio de celeridad"
+      ],
+      correct: 1,
+      explanation: "Principio de economía. Según el Art. 3 del código contencioso administrativo."
+    },
+    {
+      id: 18,
+      question: "18. El principio de _______________ garantiza que todos los órganos encargados de gestionar y llevar a cabo los procedimientos de selección y, su especial, de cada uno de los miembros responsables de ejecutarlos con equidad:",
+      options: [
+        "La economía",
+        "La celeridad",
+        "La eficacia",
+        "La imparcialidad"
+      ],
+      correct: 3,
+      explanation: "La imparcialidad. Según el Art. 28 de la ley 909 de 2004."
+    },
+    {
+      id: 19,
+      question: "19. La ley 909 de 2004 en su Art. 28, consagra que el principio de _________________ en la gestión de los procesos de selección y en el escogimiento de los jurados y órganos técnicos encargados de la selección:",
+      options: [
+        "La economía",
+        "La igualdad",
+        "La transparencia",
+        "La celeridad"
+      ],
+      correct: 2,
+      explanation: "La transparencia."
+    },
+    {
+      id: 20,
+      question: "20. La ley 909 de 2004, consagra en su Art. 28 el principio de ________________ como la efectiva difusión de las convocatorias en condiciones tales que permitan se conocidas por el total de los candidatos potenciales:",
+      options: [
+        "La publicidad",
+        "La economía",
+        "La celeridad",
+        "La transparencia"
+      ],
+      correct: 0,
+      explanation: "La publicidad."
+    },
+    {
+      id: 21,
+      question: "21. El principio de _________________ se refiere a que los instrumentos utilizados para verificar la capacidad y competencias de los aspirantes a acceder a los empleos públicos de carrera sean óptimos en su confección y aplicación:",
+      options: [
+        "Imparcialidad",
+        "Eficacia",
+        "Publicidad",
+        "Validez y confiabilidad"
+      ],
+      correct: 3,
+      explanation: "Validez y confiabilidad. Según el Art. 28 de la ley 909 de 2004."
+    },
+    {
+      id: 22,
+      question: "22. El empleado de carrera administrativa cuyo cargo sea declarado de libre nombramiento y remoción, deberá ser trasladado dentro de la misma planta de personal:",
+      options: [
+        "A un cargo como empleado oficial",
+        "A una dependencia con contrato a término fijo",
+        "A otro cargo de carrera con funciones afines",
+        "A otro cargo pero de mayor salario"
+      ],
+      correct: 2,
+      explanation: "A otro cargo de carrera con funciones afines. Según el Art. 6 de la ley 909 de 2004."
+    },
+    {
+      id: 23,
+      question: "23. El empleado de carrera administrativa cuyo cargo sea declarado de libre nombramiento y remoción, deberá en la misma planta del personal:",
+      options: [
+        "Pasa a otro cargo de carrera con menor remuneración",
+        "Pasar a otro cargo, pero de libre nombramiento y remuneración",
+        "Pasar de inmediato a disfrutar de su pensión de jubilación",
+        "Pasar a otro cargo de carrera con igual o mayor remuneración"
+      ],
+      correct: 3,
+      explanation: "Pasar a otro cargo de carrera con igual o mayor remuneración. Según el Art. 6 de la ley 909 de 2004."
+    },
+    {
+      id: 24,
+      question: "24. Si declarado el cargo como de libre nombramiento y remoción, no existiendo vacante dentro de la misma planta de personal, el Empleado de carrera deberá:",
+      options: [
+        "Pedir su pensión de jubilación",
+        "Gozar de inmediato de vacaciones adelantadas",
+        "Continuar en el mismo cargo",
+        "Ser liquidado con indemnización"
+      ],
+      correct: 2,
+      explanation: "Continuar en el mismo cargo. Según el Art. 6 de la ley 909 de 2004."
+    },
+    {
+      id: 25,
+      question: "25. Cuando un empleo de libre nombramiento y remoción sea clasificado como de carrera administrativa, deberá:",
+      options: [
+        "Ser provisto por un empleado temporal",
+        "Ser provisto mediante concurso",
+        "Ser provisto en provisionalidad",
+        "Ser provisto por un empleado a término fijo"
+      ],
+      correct: 1,
+      explanation: "Ser provisto mediante concurso. Según el Art. 6 de la ley 909 de 2004"
+    },
+    {
+      id: 26,
+      question: "26. La Comisión Nacional del Servicio Civil es la responsable de la administración y vigilancia de la carrera administrativa, excepto de:",
+      options: [
+        "Las carreras especiales",
+        "Las convocatorias a concursos",
+        "Los concursos",
+        "Las evaluaciones de los concursos"
+      ],
+      correct: 0,
+      explanation: "Las carreras especiales. Según el Art. 7 de la ley 909 de 2004."
+    },
+    {
+      id: 27,
+      question: "27. La _____________________ es un órgano de carácter legal, permanente de nivel nacional, independiente de las ramas y órganos del poder público, dotada de personería jurídica, autonomía administrativa y patrimonio propio y responsable de la administración de las carreras.",
+      options: [
+        "Personería",
+        "Comisión Nacional del Servicio Civil",
+        "Defensoría del pueblo",
+        "Comisión Nacional de Evaluación y Acreditación"
+      ],
+      correct: 1,
+      explanation: "Comisión Nacional del Servicio Civil. Según el Art. 7 de la ley 909 de 2004."
+    },
+    {
+      id: 28,
+      question: "28. La _____________________ es la responsable de la administración y vigilancia de las carreras en la administración pública:",
+      options: [
+        "Comisión Nacional del Servicio Público",
+        "Comisión Nacional del Servicio Civil",
+        "Personería",
+        "Comisión Nacional de Evaluación y Acreditación"
+      ],
+      correct: 1,
+      explanation: "Comisión Nacional del Servicio Civil. Según el Art. 7 de la ley 909 de 2004"
+    },
+    {
+      id: 29,
+      question: "29. El número máximo de miembros que conforman la Comisión Nacional del Servicio Civil es de:",
+      options: [
+        "Tres",
+        "Cuatro",
+        "Dos",
+        "Cinco"
+      ],
+      correct: 0,
+      explanation: "Tres. Según el Art. 8 de la ley 909 de 2004."
+    },
+    {
+      id: 30,
+      question: "30. Los tres miembros de la Comisión Nacional del Servicio Civil, serán de dedicación exclusiva, no reelegibles y por un periodo de:",
+      options: [
+        "Tres años",
+        "Cuatro años",
+        "Dos años",
+        "Seis años"
+      ],
+      correct: 1,
+      explanation: "Cuatro años. Según el Art. 9 de la ley 909 de 2004."
+    }
+  ],
+
+  // ✅ TEMA: Competencia Administrativa 04
+  competencia_administrativa_04: [
+    {
+      id: 1,
+      question: "1. El concurso público mediante el cual se escogerán a los miembros de la Comisión Nacional del Servicio Civil lo convocará el gobierno Nacional y será realizado en forma alterna por:",
+      options: [
+        "La Universidad pedagógica y la ESAP",
+        "La Universidad de los Andes y la Javeriana",
+        "La Universidad Distrital y la Nacional",
+        "La Universidad Nacional y la ESAP"
+      ],
+      correct: 3,
+      explanation: "La Universidad Nacional y la ESAP. Según el artículo 9 de la Ley 909 de 2004."
+    },
+    {
+      id: 2,
+      question: "2. La Comisión Nacional del Servicio Civil, para su iniciación, entre los concursantes el que obtenga el mayor puntaje, tendrá un periodo con duración de:",
+      options: [
+        "Tres años",
+        "Dos años",
+        "Un año",
+        "Cuatro años"
+      ],
+      correct: 3,
+      explanation: "Cuatro años. Según el art. 9 de la Ley 909 de 2004."
+    },
+    {
+      id: 3,
+      question: "3. La Comisión Nacional del Servicio Civil, para su iniciación, entre los concursantes el que obtenga el segundo puntaje, tendrá un período con duración de:",
+      options: [
+        "Dos años",
+        "Un año",
+        "Tres años",
+        "Cuatro años"
+      ],
+      correct: 2,
+      explanation: "Tres años. Según el art. 9 de la Ley 909 de 2004."
+    },
+    {
+      id: 4,
+      question: "4. La Comisión Nacional del Servicio Civil, para su iniciación, entre los concursantes, el que obtenga el tercer puntaje, tendrá un periodo con duración de:",
+      options: [
+        "Dos años",
+        "Un año",
+        "Tres años",
+        "Cuatro años"
+      ],
+      correct: 0,
+      explanation: "Dos años. Según el art. 9 de la Ley 909 de 2004."
+    },
+    {
+      id: 5,
+      question: "5. Para la designación de los primeros miembros de la comisión Nacional del servicio Civil, propondrán cinco candidatos ante la Escuela superior de Administración Pública, ESAP, la Asociación Colombiana de Universidades, ASCUN y:",
+      options: [
+        "La cámara de Representantes y el Consejo de Estado",
+        "El senado y la Corte Suprema de Justicia",
+        "El procurador General de la Nación y el Consejo de Estado",
+        "El defensor del pueblo y la Corte Suprema de Justicia"
+      ],
+      correct: 3,
+      explanation: "El defensor del pueblo y la Corte Suprema de Justicia. Según el Decreto 3232 de 2004."
+    },
+    {
+      id: 6,
+      question: "6. Los tres miembros de la Comisión Nacional del Servicio Civil, deberán ser profesionales en carreras universitarias tales como: Derecho, Psicología, Administración de Empresas, Ingeniería Administrativa:",
+      options: [
+        "Odontología y Sociología",
+        "Medicina y Zootecnia",
+        "Ingeniería Industrial y Administración Pública",
+        "Ingeniería de Sistemas y Administración Financiera"
+      ],
+      correct: 2,
+      explanation: "Ingeniería Industrial y Administración Pública. Según el Decreto 3232 de 2004."
+    },
+    {
+      id: 7,
+      question: "7. Para integrar por vez primera la comisión Nacional del Servicio Civil, se hará un concurso de meritos, consistente en una prueba de conocimientos, una prueba gerencial y la valoración de experiencia y estudios, dicho concurso lo realizará:",
+      options: [
+        "El ICETEX",
+        "El ICFES",
+        "La Universidad Nacional",
+        "La escuela superior de Administración Pública, ESAP"
+      ],
+      correct: 3,
+      explanation: "La escuela superior de Administración Pública, ESAP. Según el Decreto 3232 de 2004."
+    },
+    {
+      id: 8,
+      question: "8. Los tres miembros de la comisión Nacional del servicio civil percibirán un salario y prestación equivalentes al de Ministro del Despacho y son considerados como:",
+      options: [
+        "Empleados temporales",
+        "Empleados Públicos",
+        "Empleados oficiales de elección",
+        "Trabajadores oficiales"
+      ],
+      correct: 1,
+      explanation: "Empleados Públicos. Según el art. 10 de la Ley 909 de 2004."
+    },
+    {
+      id: 9,
+      question: "9. Las vacantes temporales de la Comisión Nacional del Servicio Civil serán cubiertas mediante encargo por un empleado del más alto nivel de:",
+      options: [
+        "El Ministerio de Defensa Nacional",
+        "El Ministerio de Interior y de Justicia",
+        "El Ministerio de Cultura",
+        "La Comisión Nacional del Servicio Civil"
+      ],
+      correct: 3,
+      explanation: "La Comisión Nacional del Servicio Civil. Según el art. 10 de la Ley 909 de 2004."
+    },
+    {
+      id: 10,
+      question: "10. Establecer los reglamentos para desarrollar los procesos de selección para la provisión de los empleos de carrera administrativa en los Entidades señaladas por le Ley, es una función:",
+      options: [
+        "Del Ministerio de la Protección Social",
+        "Del Ministerio del Interior y de Justicia",
+        "De la Comisión Intersectorial",
+        "De la Comisión Nacional del Servicio Civil"
+      ],
+      correct: 3,
+      explanation: "De la Comisión Nacional del Servicio Civil. Según el art. 11 de la Ley 909 de 2004."
+    },
+    {
+      id: 11,
+      question: "11. Acreditar a las Entidades para la realización de procesos de selección de conformidad con lo dispuesto en el reglamento y establecer las tarifas para contratar los concursos, es una función:",
+      options: [
+        "De la Comisión Nacional del Servicio Civil",
+        "Del Ministerio de Protección Social",
+        "De la Comisión Intersectorial",
+        "Del Ministerio del Interior y de Justicia"
+      ],
+      correct: 0,
+      explanation: "De la Comisión Nacional del Servicio Civil. Según el art. 11 de la Ley 909 de 2004."
+    },
+    {
+      id: 12,
+      question: "12. Establecer los instrumentos necesarios para la aplicación de las normas sobre evaluación del desempeño de los empleados de carrera administrativa, es una función:",
+      options: [
+        "Del Ministerio de Educación Nacional",
+        "Del Ministerio de Protección Social",
+        "De la Comisión Nacional del Servicio Civil",
+        "De la Comisión Intersectorial"
+      ],
+      correct: 2,
+      explanation: "De la Comisión Nacional del Servicio Civil. Según el art. 11 de la Ley 909 de 2004."
+    },
+    {
+      id: 13,
+      question: "13. Elaborar las convocatorias a concursos para el desempeño de empleos públicos de carrera, es una función:",
+      options: [
+        "Del Ministerio de Educación Nacional",
+        "Del ICFES",
+        "Del ICETEX",
+        "De la Comisión Nacional del Servicio Civil"
+      ],
+      correct: 3,
+      explanation: "De la Comisión Nacional del Servicio Civil. Según el art. 11 de la Ley 909 de 2004."
+    },
+    {
+      id: 14,
+      question: "14. Conformar, organizar y manejar el Banco Nacional de listas de elegibles, es una función:",
+      options: [
+        "Del ICFES",
+        "De la Comisión Nacional del Servicio Civil",
+        "Del ICETEX",
+        "Del Ministerio de Educación Nacional"
+      ],
+      correct: 1,
+      explanation: "De la Comisión Nacional del Servicio Civil. Según el art. 11 de la Ley 909 de 2004."
+    },
+    {
+      id: 15,
+      question: "15. Administrar, organizar y actualizar el registro público de empleados inscritos en carrera administrativa y expedir las certificaciones correspondientes, es función:",
+      options: [
+        "De la Comisión Nacional del Servicio Civil",
+        "Del ICFES",
+        "Del Ministerio de Educación nacional",
+        "De la Comisión Intersectorial"
+      ],
+      correct: 0,
+      explanation: "De la Comisión Nacional del Servicio Civil. Según el art. 11 de la Ley 909 de 2004."
+    },
+    {
+      id: 16,
+      question: "16. Realizar los procesos de selección para el ingreso al empleo público a través de las universidades públicas o privadas, o instituciones de educación superior, es función:",
+      options: [
+        "Del Ministerio de Educación Nacional",
+        "Del ICETEX",
+        "Del ICFES",
+        "De la Comisión Nacional del Servicio Civil"
+      ],
+      correct: 3,
+      explanation: "De la Comisión Nacional del Servicio Civil. Según el art. 11 de la Ley 909 de 2004."
+    },
+    {
+      id: 17,
+      question: "17. Las consultas que se formulen en materia de carrera administrativa, es función:",
+      options: [
+        "Del Ministerio de Educación Nacional",
+        "De la Jurisdicción contencioso-administrativo",
+        "De los jueces administrativos",
+        "De la comisión nacional del servicio civil"
+      ],
+      correct: 3,
+      explanation: "De la comisión nacional del servicio civil. Según el art. 11 de la Ley 909 de 2004."
+    },
+    {
+      id: 18,
+      question: "18. Resolver en segunda instancia las reclamaciones que se ocurra en cuanto al proceso de la carrera administrativa, es función:",
+      options: [
+        "De la comisión Nacional del servicio civil",
+        "De la jurisdicción contenciosa-administrativa",
+        "Del Ministerio de Educación Nacional",
+        "De la comisión de ética del gobierno Nacional"
+      ],
+      correct: 0,
+      explanation: "De la comisión Nacional del servicio civil. Según el art. 12 de la Ley 909 de 2004."
+    },
+    {
+      id: 19,
+      question: "19. Conocer de las reclamaciones sobre inscripciones en el registro de empleados públicos, de los empleados de Carrera Administrativa, es competencia:",
+      options: [
+        "De los Jueces Administrativos",
+        "Del Ministerio de Educación Nacional",
+        "De la Comisión de Ética del Gobierno Nacional",
+        "De la Comisión Nacional del Servicio Civil"
+      ],
+      correct: 3,
+      explanation: "De la Comisión Nacional del Servicio Civil. Según el art. 12 de la Ley 909 de 2004."
+    },
+    {
+      id: 20,
+      question: "20. Dejar sin efecto total o parcialmente los procesos de selección cuando se compruebe la ocurrencia de irregularidades, siempre que no se hayan producido actos administrativos de contenido particular y concreto y que la irregularidad nos sea atribuible al seleccionado, es función:",
+      options: [
+        "De la Comisión de Ética del Gobierno Nacional",
+        "De los Jueces Administrativos",
+        "Del ICFES",
+        "De la Comisión Nacional del Servicio Civil"
+      ],
+      correct: 3,
+      explanation: "De la Comisión Nacional del Servicio Civil. Según el art. 12 de la Ley 909 de 2004."
+    },
+    {
+      id: 21,
+      question: "21. Presentar un informe ante el Congreso de la República dentro de los 10 primeros días de cada legislatura, es función:",
+      options: [
+        "De la Comisión Nacional del Servicio Civil",
+        "De la Comisión de Ética del Gobierno Nacional",
+        "Del director del ICFES",
+        "Del director del ICETEX"
+      ],
+      correct: 0,
+      explanation: "De la Comisión Nacional del Servicio Civil. Según el art. 12 de la Ley 909 de 2004."
+    },
+    {
+      id: 22,
+      question: "22. Imponer sanciones de multa a los servidores públicos cuando se compruebe la violación a las normas de carrera administrativa, previo el debido proceso, es competencia de:",
+      options: [
+        "La Comisión Nacional del Servicio Civil",
+        "Los Jueces Administrativos",
+        "La Comisión de Ética del Gobierno Nacional",
+        "La Comisión Nacional del Servicio Penal"
+      ],
+      correct: 0,
+      explanation: "De la Comisión Nacional del Servicio Civil. Según el art. 12 de la Ley 909 de 2004."
+    },
+    {
+      id: 23,
+      question: "23. Las multas que impone la Comisión Nacional del Servicio Civil, cuando se violan las normas de Carrera Administrativa o por la inobservancia de sus instrucciones, oscilan entre:",
+      options: [
+        "Tres y diez salarios mínimos legales vigentes",
+        "Uno y cinco salarios mínimos legales vigentes",
+        "Cuatro y veinte salarios mínimos legales vigentes",
+        "Cinco y veinticinco salarios mínimos legales vigentes"
+      ],
+      correct: 3,
+      explanation: "Cinco y veinticinco salarios mínimos legales vigentes. Según el art. 12 de la Ley 909 de 2004."
+    },
+    {
+      id: 24,
+      question: "24. La organización y funcionamiento de la Comisión Nacional del Servicio Civil, será publicada:",
+      options: [
+        "En una cadena radial de cobertura nacional",
+        "En un diario escrito de alta circulación local",
+        "Por la televisión del Estado",
+        "En el Diario Oficial"
+      ],
+      correct: 3,
+      explanation: "En el Diario Oficial. Según el art. 13 de la Ley 909 de 2004."
+    },
+    {
+      id: 25,
+      question: "25. El presidente de la Comisión Nacional del Servicio Civil, será su representante legal, por un periodo de un año y será nombrado entre sus miembros por:",
+      options: [
+        "El Presidente de la República",
+        "La sala plena de la Corte Suprema de Justicia",
+        "El Presidente del Congreso de la República",
+        "La sala plena de la Comisión Nacional del Servicio Civil"
+      ],
+      correct: 3,
+      explanation: "La sala plena de la Comisión Nacional del Servicio Civil. Según el art. 13 de la Ley 909 de 2004."
+    },
+    {
+      id: 26,
+      question: "26. La Comisión Nacional del Servicio Civil tomará sus decisiones en la sala plena y sesionará por convocatoria de su Presidente con una periodicidad mínima de:",
+      options: [
+        "Dos días por cada diez días",
+        "Dos días por cada quincena",
+        "Dos días por semana",
+        "Dos días por cada mes"
+      ],
+      correct: 2,
+      explanation: "Dos días por semana. Según el art. 13 de la Ley 909 de 2004."
+    },
+    {
+      id: 27,
+      question: "27. La sede de la Comisión Nacional del Servicio Civil, será:",
+      options: [
+        "La ciudad indicada por el Presidente de la República",
+        "La ciudad capital en donde se realice el concurso respectivo",
+        "La ciudad indicada por su Sala Plena",
+        "La ciudad de Bogotá D.C"
+      ],
+      correct: 3,
+      explanation: "La ciudad de Bogotá D.C. Según el art. 13 de la Ley 909 de 2004."
+    },
+    {
+      id: 28,
+      question: "28. Los órganos de dirección y gestión del empleo público y la gerencia pública son: El Departamento Administrativo de la Función Pública, las Unidades de Personal de las Entidades, y:",
+      options: [
+        "Las Unidades del Servicio Público",
+        "Las Unidades de Servicio Administrativo",
+        "Las Comisiones de Personal",
+        "La Comisión de Atención Especial"
+      ],
+      correct: 2,
+      explanation: "Las Comisiones de Personal. Según los arts. 14, 15 y 16."
+    },
+    {
+      id: 29,
+      question: "29. El plan anual de empleos vacantes, lo debe elaborar:",
+      options: [
+        "Las Unidades de Personal de las Entidades",
+        "Las Comisiones de Personal",
+        "El Departamento Administrativo de la Función Pública",
+        "El Departamento Administrativo de la Carrera"
+      ],
+      correct: 2,
+      explanation: "El Departamento Administrativo de la Función Pública. Según el art. 14 de la Ley 909 de 2004."
+    },
+    {
+      id: 30,
+      question: "30. Impulsar, coordinar, ejecutar los planes, medidas y actividades tendientes a mejorar el rendimiento en el servicio público, la formación y promoción de los empleados públicos, es una función propia de:",
+      options: [
+        "Las Comisiones de Personal",
+        "El Departamento Administrativo de la Función Pública",
+        "Las Unidades de Personal de las Entidades",
+        "El Departamento Administrativo de la Carrera"
+      ],
+      correct: 1,
+      explanation: "El Departamento Administrativo de la Función Pública. Según el art. 14 de la Ley 909 de 2004."
+    }
+  ],
+
+  // ✅ TEMA: Competencia Administrativa 05
+  competencia_administrativa_05: [
+    {
+      id: 1,
+      question: "1. Impulsar, coordinar, ejecutar los planes, medidas y actividades tendientes a mejorar el rendimiento en el servicio público, la formación y promoción de los empleados públicos, es una función propia de:",
+      options: [
+        "Las Comisiones de Personal",
+        "El Departamento Administrativo de la Función Pública",
+        "Las Unidades de Personal de las Entidades",
+        "El Departamento Administrativo de la Carrera"
+      ],
+      correct: 1,
+      explanation: "El Departamento Administrativo de la Función Pública. Según el art. 14 de la Ley 909 de 2004."
+    },
+    {
+      id: 2,
+      question: "2. Fijar los políticas de gestión del recurso humano al servicio del Estado en la Rama Ejecutiva del poder público, es una función propia de:",
+      options: [
+        "El Departamento Administrativo de la Función Pública",
+        "Las Comisiones de Personal",
+        "El Departamento de Asuntos Sociales de la Carrera",
+        "Las Unidades de Personal de las Entidades"
+      ],
+      correct: 0,
+      explanation: "El Departamento Administrativo de la Función Pública. Según art. 14 de la Ley 909 de 2004."
+    },
+    {
+      id: 3,
+      question: "3. El plan Nacional de formación y capacitación del personal vinculado a la Carrera Administrativa, lo elabora:",
+      options: [
+        "La ESAP",
+        "Las Unidades de Personal de las Entidades",
+        "El Ministerio Nacional de Educación",
+        "El Departamento Administrativo de la Función Pública"
+      ],
+      correct: 3,
+      explanation: "El Departamento Administrativo de la Función Pública. Según el art. 14 de la Ley 909 de 2004."
+    },
+    {
+      id: 4,
+      question: "4. Determinar los parámetros para que las Entidades del Nivel Nacional y Territorial elaboren los respectivos manuales de funciones y requisitos, es una función propia de:",
+      options: [
+        "El Departamento de Planeación Nacional",
+        "Las Unidades de Personal de las Entidades",
+        "Las Comisiones de Personal",
+        "El Departamento Administrativo de la Función Pública"
+      ],
+      correct: 3,
+      explanation: "El Departamento Administrativo de la Función Pública. Según el art. 14 de la ley 909 de 2004."
+    },
+    {
+      id: 5,
+      question: "5. Desarrollar la estructura del empleo público de tal manera que permita la aplicación de las normas de Función Pública, es una función propia de:",
+      options: [
+        "Las Comisiones de Personal",
+        "El Departamento de Planeación Nacional",
+        "Las Unidades de Personal de las Entidades",
+        "El Departamento Administrativo de la Función Pública"
+      ],
+      correct: 3,
+      explanation: "El Departamento Administrativo de la Función Pública. Según el art. 14 de la ley 909 de 2004."
+    },
+    {
+      id: 6,
+      question: "6. Formular los planes estratégicos de recursos humanos y líneas básicas para su implementación por los Organismos y Entidades de la Rama Ejecutiva, es función propia de:",
+      options: [
+        "El Departamento Administrativo de la Función Pública",
+        "El Departamento de Planeación Nacional",
+        "Las Unidades de Personal de las Entidades",
+        "Las Comisiones de Personal"
+      ],
+      correct: 0,
+      explanation: "El Departamento Administrativo de la Función Pública. Según el art. 14 de la Ley 909 de 2004."
+    },
+    {
+      id: 7,
+      question: "7. ________________________________, se dió su creación por la ley 19 de 1958, y su función principal es regular el ejercicio del empleo público de cualquier tipo.",
+      options: [
+        "Las Unidades de Personal",
+        "El Departamento Nacional de Planeación",
+        "Las Comisiones de Personal",
+        "El Departamento Administrativo de la Función Pública"
+      ],
+      correct: 3,
+      explanation: "El Departamento Administrativo de la Función Pública."
+    },
+    {
+      id: 8,
+      question: "8. Le corresponde velar por el prestigio del Gobierno como empleador a:",
+      options: [
+        "Las Comisiones de Personal",
+        "Las Unidades de Personal",
+        "El Departamento Administrativo de la Función Pública",
+        "El Departamento de Planeación Nacional"
+      ],
+      correct: 2,
+      explanation: "El Departamento Administrativo de la Función Pública. Según el art. 14 de la ley 909 de 2004."
+    },
+    {
+      id: 9,
+      question: "9. ___________________________________ para quienes se les aplica la ley 909 de 2004, son la estructura básica de la gestión de los recursos humanos en la administración pública.",
+      options: [
+        "Las Comisiones de Personal",
+        "Las Unidades de Personal",
+        "El Departamento Administrativo de la Función Pública",
+        "El Departamento Nacional de Planeación"
+      ],
+      correct: 1,
+      explanation: "Las Unidades de Personal. Según el art. 15 de la ley 909 de 2004."
+    },
+    {
+      id: 10,
+      question: "10. La elaboración de los planes estratégicos de recursos humanos, le corresponde propiamente a:",
+      options: [
+        "El Departamento Administrativo de la Función Pública",
+        "Las Unidades de Personal",
+        "Las Comisiones de Personal",
+        "El Departamento Nacional de Planeación"
+      ],
+      correct: 1,
+      explanation: "Las Unidades de Personal. Según el art. 15 de la ley 909 de 2004."
+    },
+    {
+      id: 11,
+      question: "11. La elaboración de los planes estratégicos de recursos humanos, le corresponde propiamente a:",
+      options: [
+        "El Departamento Administrativo de la Función Pública",
+        "Las Unidades de Personal",
+        "Las Comisiones de Personal",
+        "El Departamento Nacional de Planeación"
+      ],
+      correct: 1,
+      explanation: "Las Unidades de Personal. Según el art. 15 de la ley 909 de 2004."
+    },
+    {
+      id: 12,
+      question: "12. Elaborar los proyectos de plantas de personal y los respectivos manuales de funciones, es una función específica de:",
+      options: [
+        "Los Departamentos de Personal respectivos",
+        "Las Unidades de Personal",
+        "Las Comisiones de Personal",
+        "El Departamento Administrativo de la Función Pública"
+      ],
+      correct: 1,
+      explanation: "Las Unidades de Personal. Según el art. 15 de la ley 909 de 2004."
+    },
+    {
+      id: 13,
+      question: "13. Diseñar y administrar los programas de formación y capacitación, según lo indicado en la ley y en el plan nacional de formación y capacitación, le corresponde propiamente a:",
+      options: [
+        "A la ESAP",
+        "Las Comisiones de Personal",
+        "Las Unidades de Personal",
+        "A la universidad Nacional de Colombia"
+      ],
+      correct: 2,
+      explanation: "Las Unidades de Personal. Según el art. 15 de la ley 909 de 2004."
+    },
+    {
+      id: 14,
+      question: "14. Organizar y administrar el registro sistematizado de los recursos humanos de su Entidad, que permita la formulación de programar internos y la toma de decisiones, es una función propia de:",
+      options: [
+        "El Departamento de Planeación Nacional",
+        "Las Comisiones de Personal",
+        "Las Unidades de Personal",
+        "El Departamento Administrativo de la Función Pública"
+      ],
+      correct: 2,
+      explanation: "Las Unidades de Personal. Según el art. 15 de la ley 909 de 2004."
+    },
+    {
+      id: 15,
+      question: "15. La posesión de un Ministro o jefe de Departamento Administrativo se hará ante:",
+      options: [
+        "Un Notario",
+        "Un Juez de la República",
+        "El Presidente de la República",
+        "El Procurador General de la Nación"
+      ],
+      correct: 2,
+      explanation: "El Presidente de la República. Según el art. 48 del decreto 1950 de 1973."
+    },
+    {
+      id: 16,
+      question: "16. En Colombia los procesos de selección y utilización de lista de elegibles, fueron suspendidos a partir de la ejecutoria de la sentencia C-372 de la Corte Constitucional de fecha:",
+      options: [
+        "12 de julio de 1996",
+        "12 de julio de 1999",
+        "12 de julio de 1991",
+        "12 de julio de 2003"
+      ],
+      correct: 1,
+      explanation: "12 de julio de 1999."
+    },
+    {
+      id: 17,
+      question: "17. Mientras se surte el proceso de selección convocado para la provisión de un empleo de carrera, podrá ser provisto por encargo a empleados de carrera, con un término de duración no superior a:",
+      options: [
+        "Tres meses",
+        "Cuatro meses",
+        "Seis meses",
+        "Doce meses"
+      ],
+      correct: 2,
+      explanation: "Seis meses. Según el art. 8 del decreto 1227 de 2005."
+    },
+    {
+      id: 18,
+      question: "18. En Colombia los empleados en provisionalidad se generalizaron a partir de:",
+      options: [
+        "12 de julio de 1996",
+        "12 de julio de 1993",
+        "12 de julio de 1995",
+        "12 de julio de 1999"
+      ],
+      correct: 3,
+      explanation: "12 de julio de 1999. Según sentencia C-372 de la corte Constitucional."
+    },
+    {
+      id: 19,
+      question: "19. Las unidades de personal serán convocadas por _________________ quien hará las veces de secretario.",
+      options: [
+        "El respectivo secretario de la Entidad",
+        "El gerentes de la Entidad",
+        "El director administrativo de la Entidad",
+        "El respectivo jefe de personal de la Entidad"
+      ],
+      correct: 3,
+      explanation: "El respectivo jefe de personal de la Entidad. Según el art. 15 de la ley 909 de 2004."
+    },
+    {
+      id: 20,
+      question: "20. Las Comisiones de Personal, tienen un origen legal y su funcionamiento es obligatorio en las Entidades públicas donde se aplique la carrera administrativa, porque su función principal es:",
+      options: [
+        "Resolver las reclamaciones ante actuaciones administrativas",
+        "Administrar los programas de capacitación en cada Entidad",
+        "Vigilar las actuaciones de la ESAP",
+        "Elaborar los proyectos de planta de personal en la Entidad"
+      ],
+      correct: 0,
+      explanation: "Resolver las reclamaciones ante actuaciones administrativas. Según el art. 16 de la ley 909 de 2004."
+    },
+    {
+      id: 21,
+      question: "21. La Comisión de Personal que funciona en todos los Organismos regulados por la ley de la Carrera Administrativa, está conformada por dos representantes de la Entidad designados por el respectivo nominador y por:",
+      options: [
+        "Dos empleados, unos de carrera y otro de provisionalidad",
+        "Dos empleados en provisionalidad",
+        "Dos empleados inscritos en la carrera y elegidos por voto de los empleados",
+        "Dos representantes de los particulares"
+      ],
+      correct: 2,
+      explanation: "Dos empleados inscritos en la carrera y elegidos por voto de los empleados. Según el art. 16 de la ley 909 de 2004."
+    },
+    {
+      id: 22,
+      question: "22. Las decisiones de la Comisión de Personal se tomarán por mayoría absoluta, en caso de empate se repite la votación y si este empate persiste, lo dirime:",
+      options: [
+        "El jefe de la seccional",
+        "El jefe de la Entidad",
+        "El jefe de personal de esa Entidad",
+        "El jefe de control interno de esa Entidad"
+      ],
+      correct: 3,
+      explanation: "El jefe de control interno de esa Entidad. Según el art. 16 de la ley 909 de 2004."
+    },
+    {
+      id: 23,
+      question: "23. La Comisión de Personal se reunirá por lo menos:",
+      options: [
+        "Una vez al mes",
+        "Tres veces al mes",
+        "Dos veces al mes",
+        "Una vez al año"
+      ],
+      correct: 3,
+      explanation: "Una vez al año. Según el art. 16 de la ley 909 de 2004."
+    },
+    {
+      id: 24,
+      question: "24. Conocer en primera instancia de las reclamaciones que formulan los empleados de carrera, cuando se les supriman sus empleos, es una función propia de:",
+      options: [
+        "El Departamento Administrativo de la Función Pública",
+        "La Unidad de Personal",
+        "La Comisión de Personal",
+        "La gerencia de la Función Pública"
+      ],
+      correct: 2,
+      explanation: "La Comisión de Personal. Según el art. 16 de la ley 909 de 2004."
+    },
+    {
+      id: 25,
+      question: "25. Conocer en primera instancia, de las reclamaciones que presenten los empleados por las incorporaciones a las nuevas plantas de personal o por el desmejoramiento de sus condiciones laborales, es una función propia de:",
+      options: [
+        "La Gerencia de la Función Pública",
+        "La Comisión de Personal",
+        "El Departamento Administrativo de la Función Pública",
+        "La Unidad de Personal"
+      ],
+      correct: 1,
+      explanation: "La Comisión de Personal. Según el art. 16 de la ley 909 de 2004."
+    },
+    {
+      id: 26,
+      question: "26. Velar porque los empleos se provean en el orden establecido en la ley y porque las listas de elegibles sean utilizados aplicando los principios de Economía, Celeridad y Eficacia Administrativa, es una función propia de:",
+      options: [
+        "La Gerencia de la Función Pública",
+        "La Comisión de Personal",
+        "La Unidad de Personal",
+        "El Departamento Administrativo de la Función Pública"
+      ],
+      correct: 1,
+      explanation: "La Comisión de Personal. Según el art. 16 de la ley 909 de 2004."
+    },
+    {
+      id: 27,
+      question: "27. Las Comisiones de Personal, enviarán a la Comisión Nacional del Servicio Civil un informe detallado de sus actuaciones:",
+      options: [
+        "Cada semestre",
+        "Cada bimestre",
+        "Cada trimestre",
+        "Cada anualidad"
+      ],
+      correct: 2,
+      explanation: "Cada trimestre. Según el art. 16 de la ley 909 de 2004."
+    }
+  ],
+
+  competencia_linguistica_02: [
+    {
+      id: 1,
+      question: `1- EL CULTO A LOS LIBROS
+De los diversos instrumentos inventados por el hombre, el más asombroso es, sin duda, el libro. Los demás son extensiones de su cuerpo. El microscopio, el telescopio, son extensiones de su vista; el teléfono es extensión de la voz; el arado y la espada, extensiones de su brazo. Pero el libro es otra cosa: el libro es una extensión de la memoria y de la imaginación. Se habla de la desaparición del libro; yo creo que es imposible. Se dirá: qué diferencia puede haber entre un libro y un periódico o un disco. La diferencia es que un periódico se lee para el olvido, un disco se oye así mismo para el olvido, es algo mecánico y por lo tanto frívolo. Un libro se lee para la memoria. Los antiguos no profesaban nuestro culto al libro, ya que veían a la palabra escrita como algo muerto. Pitágoras no escribió porque no quiso atarse a la palabra escrita, pues quería que su pensamiento viviese más allá de su muerte corporal en la mente de sus discípulos, y de esta forma ellos tuvieran la libertad de seguir pensando y repensando el pensamiento inicial de su maestro. Platón veía los libros como efigies (puede haber estado pensando en esculturas o en cuadros), que uno cree que están vivas, pero si se les pregunta algo no contestan. Entonces, para corregir esa mudez de los libros, inventa el diálogo platónico y de esta forma se multiplica en muchos personajes: Sócrates, Gorgias y los demás. Ahora vemos las bibliotecas como si fueran gabinetes mágicos, en donde están encantados los mejores espíritus de la humanidad, espíritus que esperan nuestra palabra para salir de su mudez. ¿Qué son las palabras acostadas en un libro? ¿Qué son esos símbolos muertos? Nada, absolutamente. ¿Qué es un libro si no lo abrimos? Es simplemente un cubo de papel y cuero, con hojas; pero si lo leemos ocurre algo raro. Si leemos un libro antiguo, es como si leyéramos todo el tiempo que ha transcurrido desde el día en que fue escrito y nosotros. Por eso conviene mantener el culto del libro. Podemos no estar de acuerdo con las opiniones del autor, pero el libro conserva algo sagrado, algo divino, que renueva en nosotros el deseo de encontrar felicidad, d encontrar sabiduría.
+Borges, Jorge Luis, Borges oral, Buenos Aires, Emecé Editores, 1979, págs 13-24 
+Del culto a la oralidad de los antiguos y del culto a los libros en la actualidad podemos afirmar que:`,
+      options: [
+        "Los antiguos tenían razón, pues gracias a la escritura hoy tenemos conocimiento de su cultura.",
+        "Los antiguos tenían razón, pues en la actualidad se ha perdido la capacidad de escuchar y memorizar las enseñanzas.",
+        "Son dos formas de pensamiento, determinadas por necesidades culturales diferentes.",
+        "Son dos formas de pensamiento similares, pues privilegian ante todo el sentido de sus enseñanzas"
+      ],
+      correct: 2,
+      explanation: `Del culto a la oralidad de los antiguos y del culto a los libros en la actualidad podemos afirmar que son dos formas de pensamiento, determinadas por necesidades culturales diferentes, ya que esas antiguas ideas no tienen validez en la actualidad, por que no solo la mente ha cambiado a lo largo de la historia, sino también las necesidades. La curiosidad e ingenuidad del hombre no tiene límites, tanta vertiginosa información, debe estar acumulada en algún lugar, y la mente humana ya no puede con todo.`
+    },
+    {
+      id: 2,
+      question: `2- EL CULTO A LOS LIBROS
+De los diversos instrumentos inventados por el hombre, el más asombroso es, sin duda, el libro. Los demás son extensiones de su cuerpo. El microscopio, el telescopio, son extensiones de su vista; el teléfono es extensión de la voz; el arado y la espada, extensiones de su brazo. Pero el libro es otra cosa: el libro es una extensión de la memoria y de la imaginación. Se habla de la desaparición del libro; yo creo que es imposible. Se dirá: qué diferencia puede haber entre un libro y un periódico o un disco. La diferencia es que un periódico se lee para el olvido, un disco se oye así mismo para el olvido, es algo mecánico y por lo tanto frívolo. Un libro se lee para la memoria. Los antiguos no profesaban nuestro culto al libro, ya que veían a la palabra escrita como algo muerto. Pitágoras no escribió porque no quiso atarse a la palabra escrita, pues quería que su pensamiento viviese más allá de su muerte corporal en la mente de sus discípulos, y de esta forma ellos tuvieran la libertad de seguir pensando y repensando el pensamiento inicial de su maestro. Platón veía los libros como efigies (puede haber estado pensando en esculturas o en cuadros), que uno cree que están vivas, pero si se les pregunta algo no contestan. Entonces, para corregir esa mudez de los libros, inventa el diálogo platónico y de esta forma se multiplica en muchos personajes: Sócrates, Gorgias y los demás. Ahora vemos las bibliotecas como si fueran gabinetes mágicos, en donde están encantados los mejores espíritus de la humanidad, espíritus que esperan nuestra palabra para salir de su mudez. ¿Qué son las palabras acostadas en un libro? ¿Qué son esos símbolos muertos? Nada, absolutamente. ¿Qué es un libro si no lo abrimos? Es simplemente un cubo de papel y cuero, con hojas; pero si lo leemos ocurre algo raro. Si leemos un libro antiguo, es como si leyéramos todo el tiempo que ha transcurrido desde el día en que fue escrito y nosotros. Por eso conviene mantener el culto del libro. Podemos no estar de acuerdo con las opiniones del autor, pero el libro conserva algo sagrado, algo divino, que renueva en nosotros el deseo de encontrar felicidad, d encontrar sabiduría.
+Borges, Jorge Luis, Borges oral, Buenos Aires, Emecé Editores, 1979, págs 13-24.
+La expresión "un periódico se lee para el olvido" se refiere a la :`,
+      options: [
+        "Abundante información escrita en nuestros días.",
+        "Naturaleza efímera y cotidiana de dicha publicación.",
+        "Naturaleza caótica y dispersa de dicha publicación.",
+        "Excesiva influencia de los medios impresos de comunicación."
+      ],
+      correct: 1,
+      explanation: `La expresión "un periódico se lee para el olvido" se refiere a la naturaleza efímera y cotidiana de dicha publicación, esto quiere decir, que como es un texto de publicación diaria, lo que allí se lee un día queda inmediatamente reemplazado por lo de la nueva publicación del día siguiente.`
+    },
+    {
+      id: 3,
+      question: `3- EL CULTO A LOS LIBROS
+De los diversos instrumentos inventados por el hombre, el más asombroso es, sin duda, el libro. Los demás son extensiones de su cuerpo. El microscopio, el telescopio, son extensiones de su vista; el teléfono es extensión de la voz; el arado y la espada, extensiones de su brazo. Pero el libro es otra cosa: el libro es una extensión de la memoria y de la imaginación. Se habla de la desaparición del libro; yo creo que es imposible. Se dirá: qué diferencia puede haber entre un libro y un periódico o un disco. La diferencia es que un periódico se lee para el olvido, un disco se oye así mismo para el olvido, es algo mecánico y por lo tanto frívolo. Un libro se lee para la memoria. Los antiguos no profesaban nuestro culto al libro, ya que veían a la palabra escrita como algo muerto. Pitágoras no escribió porque no quiso atarse a la palabra escrita, pues quería que su pensamiento viviese más allá de su muerte corporal en la mente de sus discípulos, y de esta forma ellos tuvieran la libertad de seguir pensando y repensando el pensamiento inicial de su maestro. Platón veía los libros como efigies (puede haber estado pensando en esculturas o en cuadros), que uno cree que están vivas, pero si se les pregunta algo no contestan. Entonces, para corregir esa mudez de los libros, inventa el diálogo platónico y de esta forma se multiplica en muchos personajes: Sócrates, Gorgias y los demás. Ahora vemos las bibliotecas como si fueran gabinetes mágicos, en donde están encantados los mejores espíritus de la humanidad, espíritus que esperan nuestra palabra para salir de su mudez. ¿Qué son las palabras acostadas en un libro? ¿Qué son esos símbolos muertos? Nada, absolutamente. ¿Qué es un libro si no lo abrimos? Es simplemente un cubo de papel y cuero, con hojas; pero si lo leemos ocurre algo raro. Si leemos un libro antiguo, es como si leyéramos todo el tiempo que ha transcurrido desde el día en que fue escrito y nosotros. Por eso conviene mantener el culto del libro. Podemos no estar de acuerdo con las opiniones del autor, pero el libro conserva algo sagrado, algo divino, que renueva en nosotros el deseo de encontrar felicidad, d encontrar sabiduría.
+Borges, Jorge Luis, Borges oral, Buenos Aires, Emecé Editores, 1979, págs 13-24.
+Al final del texto, el culto a los libros se presenta como una invitación a leer, pues ellos poseen una naturaleza sagrada y divina que les permite:`,
+      options: [
+        "Estar aprisionados por el papel y la portada",
+        "Estar destinados a convertirse en gabinetes mágicos",
+        "Ser portadores del tiempo y la memoria de la humanidad",
+        "Ser extensiones de la cultura oral de la antigüedad"
+      ],
+      correct: 2,
+      explanation: `Al final del texto, el culto a los libros se presenta como una invitación a leer, pues ellos poseen una naturaleza sagrada y divina que les permite ser portadores del tiempo y la memoria de la humanidad, esto quiere decir, que al leer un libro antiguo, es como si leyéramos todo el tiempo que ha transcurrido desde el día en que fue escrito y nosotros.`
+    },
+    {
+      id: 4,
+      question: `4- LA VOZ HABLADA DEL DESEO
+En el centro del esquema imaginativo y lingüístico en el que irían a inscribirse miles de discursos y el dinamismo del canto erótico (La voz hablada del deseo) se encuentra una situación tipo, que es la del obstáculo. El deseo que poseo y que me posee se dirige hacía un objeto que, sean cuales sean las modalidades de su fantasma, "yo" no poseeré jamás en el "goce", es decir, en la perfecta libertad y la intemporalidad del "juego" A través de las innumerables variantes que comportan los destinos individuales, el obstáculo está siempre allí, inminente a todo amor. No porque se lo conciba como una condena virtual del amor, sino como su condición de posibilidad. El matrimonio implica un derecho de posesión: "yo" poseo a "mi" mujer, "mi" mujer me posee a "mí". Pero el amor no puede tener lugar en ese espacio posesivo. Por ello, el amor es imposible, y por ello, el deseo se identifica con su expresión. Amar es cantar, el amor reside en el canto; quien canta merece el amor. 
+¿Qué es lo que más se aproxima al significado de la palabra "obstáculo" en este contexto?`,
+      options: [
+        "Una barrera física que impide el acceso a un lugar",
+        "Un impedimento que dificulta la realización de un deseo",
+        "Una persona que se opone a la acción de otra",
+        "Una condición que limita la libertad personal"
+      ],
+      correct: 1,
+      explanation: `En este contexto, la palabra "obstáculo" se refiere a un impedimento que dificulta la realización de un deseo, específicamente el deseo amoroso. No es una barrera física, sino simbólica, que hace que el amor sea imposible dentro del espacio posesivo del matrimonio.`
+    },
+    {
+      id: 5,
+      question: `5- LA VOZ HABLADA DEL DESEO
+En el centro del esquema imaginativo y lingüístico en el que irían a inscribirse miles de discursos y el dinamismo del canto erótico (La voz hablada del deseo) se encuentra una situación tipo, que es la del obstáculo. El deseo que poseo y que me posee se dirige hacía un objeto que, sean cuales sean las modalidades de su fantasma, "yo" no poseeré jamás en el "goce", es decir, en la perfecta libertad y la intemporalidad del "juego" A través de las innumerables variantes que comportan los destinos individuales, el obstáculo está siempre allí, inminente a todo amor. No porque se lo conciba como una condena virtual del amor, sino como su condición de posibilidad. El matrimonio implica un derecho de posesión: "yo" poseo a "mi" mujer, "mi" mujer me posee a "mí". Pero el amor no puede tener lugar en ese espacio posesivo. Por ello, el amor es imposible, y por ello, el deseo se identifica con su expresión. Amar es cantar, el amor reside en el canto; quien canta merece el amor. 
+Según el texto, el matrimonio implica un derecho de posesión:`,
+      options: [
+        "Porque permite la convivencia entre dos personas",
+        "Porque establece una relación legal entre esposos",
+        "Porque anula la posibilidad de amar libremente",
+        "Porque otorga a cada cónyuge el control sobre el otro"
+      ],
+      correct: 3,
+      explanation: `Según el texto, el matrimonio implica un derecho de posesión porque otorga a cada cónyuge el control sobre el otro, lo cual impide que el amor pueda tener lugar en ese espacio posesivo.`
+    },
+    {
+      id: 6,
+      question: `6- LA VOZ HABLADA DEL DESEO
+En el centro del esquema imaginativo y lingüístico en el que irían a inscribirse miles de discursos y el dinamismo del canto erótico (La voz hablada del deseo) se encuentra una situación tipo, que es la del obstáculo. El deseo que poseo y que me posee se dirige hacía un objeto que, sean cuales sean las modalidades de su fantasma, "yo" no poseeré jamás en el "goce", es decir, en la perfecta libertad y la intemporalidad del "juego" A través de las innumerables variantes que comportan los destinos individuales, el obstáculo está siempre allí, inminente a todo amor. No porque se lo conciba como una condena virtual del amor, sino como su condición de posibilidad. El matrimonio implica un derecho de posesión: "yo" poseo a "mi" mujer, "mi" mujer me posee a "mí". Pero el amor no puede tener lugar en ese espacio posesivo. Por ello, el amor es imposible, y por ello, el deseo se identifica con su expresión. Amar es cantar, el amor reside en el canto; quien canta merece el amor. 
+El tema del texto anterior es:`,
+      options: [
+        "La fe casi mágica en la eficacia de la palabra.",
+        "El deseo de posesión y su imposibilidad",
+        "El obstáculo inminente a todo amor",
+        "El matrimonio que implica un derecho de posesión"
+      ],
+      correct: 0,
+      explanation: `El tema del texto anterior es la fe casi mágica en la eficacia de la palabra, el texto se concluye con: "amar es cantar, el amor reside en el canto; quien canta merece el amor". Es este pues el tema general, todo lo dicho anteriormente era el camino que justificaba dicho enunciado.`
+    },
+    {
+      id: 7,
+      question: `7- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con restricciones económicas por parte de la cadena NBC. Durante los 79 episodios grabados, jamás la nave U.S.S. Enterprise NCC-1701 pudo aterrizar en la superficie de planeta alguno, y la razón se vino a conocer años después: el presupuesto no permitía invertir en los escenarios capaces de dar credibilidad al descenso. Por ello, el orgullo de la Federación Unida de Planetas se limitó a girar tímidamente alrededor de mundos a los cuales la tripulación accedía gracias a la brillante y ahorrativa idea del teletransportador. Para rematar, una feliz "coincidencia" aseguró que la inmensa mayoría de estos cuerpos celestes contara con atmósferas respirables, así que tampoco había que invertir mucho en trajes espaciales. 
+La serie "Viaje a las Estrellas" fue producida con escaso dinero, porque no se esperaba que tuviera tanto éxito. ¿Cuál fue el impacto de esto en la serie?`,
+      options: [
+        "Se redujo la calidad de los efectos especiales",
+        "Se aumentó la duración de los episodios",
+        "Se desarrollaron ideas creativas para ahorrar costos",
+        "Se canceló la producción después de unos pocos episodios"
+      ],
+      correct: 2,
+      explanation: `Se desarrollaron ideas creativas para ahorrar costos. El texto menciona que la serie utilizó el teletransportador y otras ideas para evitar gastos innecesarios. Esta limitación económica impulsó soluciones ingeniosas que se convirtieron en elementos icónicos de la serie.`
+    },
+    {
+      id: 8,
+      question: `8- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con restricciones económicas por parte de la cadena NBC. Durante los 79 episodios grabados, jamás la nave U.S.S. Enterprise NCC-1701 pudo aterrizar en la superficie de planeta alguno, y la razón se vino a conocer años después: el presupuesto no permitía invertir en los escenarios capaces de dar credibilidad al descenso. Por ello, el orgullo de la Federación Unida de Planetas se limitó a girar tímidamente alrededor de mundos a los cuales la tripulación accedía gracias a la brillante y ahorrativa idea del teletransportador. Para rematar, una feliz "coincidencia" aseguró que la inmensa mayoría de estos cuerpos celestes contara con atmósferas respirables, así que tampoco había que invertir mucho en trajes espaciales. 
+El texto menciona que la serie "Viaje a las Estrellas" fue producida con restricciones económicas. ¿Qué consecuencia tuvo esto en la narrativa de la serie?`,
+      options: [
+        "Se enfocó en historias de acción y aventura",
+        "Se limitó a explorar planetas desde la órbita",
+        "Se desarrolló una trama compleja",
+        "Se introdujeron elementos de ciencia ficción avanzada"
+      ],
+      correct: 1,
+      explanation: `Se limitó a explorar planetas desde la órbita. El texto explica que la nave nunca aterrizó en la superficie de ningún planeta debido al presupuesto limitado, lo que influyó directamente en la forma en que se contaban las historias.`
+    },
+    {
+      id: 9,
+      question: `9- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con restricciones económicas por parte de la cadena NBC. Durante los 79 episodios grabados, jamás la nave U.S.S. Enterprise NCC-1701 pudo aterrizar en la superficie de planeta alguno, y la razón se vino a conocer años después: el presupuesto no permitía invertir en los escenarios capaces de dar credibilidad al descenso. Por ello, el orgullo de la Federación Unida de Planetas se limitó a girar tímidamente alrededor de mundos a los cuales la tripulación accedía gracias a la brillante y ahorrativa idea del teletransportador. Para rematar, una feliz "coincidencia" aseguró que la inmensa mayoría de estos cuerpos celestes contara con atmósferas respirables, así que tampoco había que invertir mucho en trajes espaciales. 
+La serie "Viaje a las Estrellas" fue producida con escaso dinero, pero terminó siendo una mina de oro. ¿Qué significa esto?`,
+      options: [
+        "La serie fue muy costosa de producir",
+        "La serie tuvo un gran éxito económico",
+        "La serie fue muy popular entre los críticos",
+        "La serie fue muy influyente en la cultura"
+      ],
+      correct: 1,
+      explanation: `La serie tuvo un gran éxito económico. La frase "mina de oro" sugiere que, a pesar de su bajo presupuesto inicial, la serie generó grandes ganancias a través de licencias, merchandising y emisiones internacionales.`
+    },
+    {
+      id: 10,
+      question: `10- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con restricciones económicas por parte de la cadena NBC. Durante los 79 episodios grabados, jamás la nave U.S.S. Enterprise NCC-1701 pudo aterrizar en la superficie de planeta alguno, y la razón se vino a conocer años después: el presupuesto no permitía invertir en los escenarios capaces de dar credibilidad al descenso. Por ello, el orgullo de la Federación Unida de Planetas se limitó a girar tímidamente alrededor de mundos a los cuales la tripulación accedía gracias a la brillante y ahorrativa idea del teletransportador. Para rematar, una feliz "coincidencia" aseguró que la inmensa mayoría de estos cuerpos celestes contara con atmósferas respirables, así que tampoco había que invertir mucho en trajes espaciales. 
+El tipo de texto con el cual se presenta la información sobre "Viaje a las Estrellas" es:`,
+      options: [
+        "Narrativo, porque cuenta una historia de ficción.",
+        "Argumentativo, porque defiende una postura sobre el impacto de la serie.",
+        "Descriptivo, porque detalla hechos irreales sucedidos en la nave Enterprise.",
+        "Expositivo, porque informa sobre aspectos técnicos y culturales de la serie."
+      ],
+      correct: 3,
+      explanation: `El tipo de texto con el cual se presenta la información sobre "Viaje a las Estrellas" es expositivo, porque informa sobre aspectos técnicos y culturales de la serie. El texto no busca convencer ni narrar una historia, sino explicar cómo la serie influyó en la cultura y la tecnología.`
+    },
+    {
+      id: 11,
+      question: `11- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con restricciones económicas por parte de la cadena NBC. Durante los 79 episodios grabados, jamás la nave U.S.S. Enterprise NCC-1701 pudo aterrizar en la superficie de planeta alguno, y la razón se vino a conocer años después: el presupuesto no permitía invertir en los escenarios capaces de dar credibilidad al descenso. Por ello, el orgullo de la Federación Unida de Planetas se limitó a girar tímidamente alrededor de mundos a los cuales la tripulación accedía gracias a la brillante y ahorrativa idea del teletransportador. Para rematar, una feliz "coincidencia" aseguró que la inmensa mayoría de estos cuerpos celestes contara con atmósferas respirables, así que tampoco había que invertir mucho en trajes espaciales. 
+La expresión "hecha con las uñas" hace alusión a que la producción de esta serie fue realizada con escaso dinero, porque no se esperaba que tuviera tanto éxito, en el texto se habla de: "escenarios de cartón, uniformes de tela ordinaria, miniaturas y maquetas fabricadas con materiales de ocasión...". ¿Qué significa esta expresión?`,
+      options: [
+        "Que fue producida con tecnología avanzada",
+        "Que fue realizada con gran lujo y detalle",
+        "Que fue hecha con recursos mínimos y mucho esfuerzo",
+        "Que fue filmada en condiciones ideales"
+      ],
+      correct: 2,
+      explanation: `La expresión "hecha con las uñas" hace alusión a que la producción de esta serie fue realizada con escaso dinero, porque no se esperaba que tuviera tanto éxito. Significa que fue hecha con recursos mínimos y mucho esfuerzo.`
+    },
+    {
+      id: 12,
+      question: `12- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con restricciones económicas por parte de la cadena NBC. Durante los 79 episodios grabados, jamás la nave U.S.S. Enterprise NCC-1701 pudo aterrizar en la superficie de planeta alguno, y la razón se vino a conocer años después: el presupuesto no permitía invertir en los escenarios capaces de dar credibilidad al descenso. Por ello, el orgullo de la Federación Unida de Planetas se limitó a girar tímidamente alrededor de mundos a los cuales la tripulación accedía gracias a la brillante y ahorrativa idea del teletransportador. Para rematar, una feliz "coincidencia" aseguró que la inmensa mayoría de estos cuerpos celestes contara con atmósferas respirables, así que tampoco había que invertir mucho en trajes espaciales. 
+Según el texto, el futuro tecnológico plasmado en "Viaje a las Estrellas" ha influido en el desarrollo real de tecnologías como los teléfonos celulares y las computadoras. ¿Qué función cumple el texto al relacionar ficción y realidad?`,
+      options: [
+        "Critica la superficialidad de la ciencia ficción",
+        "Demuestra que la ficción puede inspirar avances reales",
+        "Cuestiona la utilidad de las series televisivas",
+        "Promueve el desarrollo de nuevas series"
+      ],
+      correct: 1,
+      explanation: `Según el texto, el futuro tecnológico plasmado en "Viaje a las Estrellas" ha influido en el desarrollo real de tecnologías como los teléfonos celulares y las computadoras. La función del texto es demostrar que la ficción puede inspirar avances reales.`
+    },
+    {
+      id: 13,
+      question: `13- EL FUTURO CUMPLE 30 AÑOS
+Un piloto de bombardero B-17 durante la Segunda Guerra Mundial, y más tarde guionista de series televisivas del Oeste, posibilitó los viajes espaciales a velocidades lumínicas, desarrolló un sistema capaz de transportar seres humanos gracias a la separación molecular, concibió los teléfonos celulares, proyectó la primera generación de máquinas inteligentes y contribuyó notablemente a la exploración de buena parte del universo. 
+¿Qué se puede inferir sobre Gene Rodenberry a partir del texto?`,
+      options: [
+        "Fue un científico reconocido internacionalmente",
+        "Fue un ingeniero especializado en tecnología espacial",
+        "Fue un creador de ficción que inspiró avances tecnológicos",
+        "Fue un militar que desarrolló armas secretas"
+      ],
+      correct: 2,
+      explanation: `A partir del texto, se puede inferir que Gene Rodenberry fue un creador de ficción que inspiró avances tecnológicos, ya que muchas de las ideas que presentó en "Viaje a las Estrellas" se han convertido en realidades tecnológicas.`
+    },
+    {
+      id: 14,
+      question: `14- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con escaso dinero, pero terminó siendo una mina de oro. ¿Qué evidencia hay de esto en el texto?`,
+      options: [
+        "La serie tuvo muchos efectos especiales",
+        "La serie tuvo muchos episodios",
+        "La serie no tuvo escenarios de aterrizaje",
+        "La serie tuvo muchos actores"
+      ],
+      correct: 2,
+      explanation: `La evidencia de que la serie fue una mina de oro a pesar de su bajo presupuesto es que no tuvo escenarios de aterrizaje, lo que indica restricciones económicas, pero igualmente tuvo un gran éxito.`
+    },
+    {
+      id: 15,
+      question: `15- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con escaso dinero. ¿Qué solución encontró la producción para ahorrar costos?`,
+      options: [
+        "Utilizó efectos especiales avanzados",
+        "Utilizó escenarios de aterrizaje",
+        "Utilizó el teletransportador",
+        "Utilizó trajes espaciales"
+      ],
+      correct: 2,
+      explanation: `La producción encontró como solución para ahorrar costos el uso del teletransportador, lo que evitó la necesidad de construir escenarios de aterrizaje en planetas.`
+    }
+  ],
+
+  competencia_linguistica_03: [
+    {
+      id: 1,
+      question: `1--EL CARNAVAL:universo mágico de la alegría
+El Carnaval es un universo mágico de la alegría. En él se desbordan los sentidos, se exageran los gestos, se desbordan los colores, se exageran las formas, se desbordan las risas, se exageran los disfraces, se desbordan las emociones, se exageran las voces, se desbordan los cuerpos, se exageran las actitudes, se desbordan las fantasías, se exageran los sueños, se desbordan los deseos, se exageran los anhelos, se desbordan las ilusiones, se exageran las esperanzas, se desbordan los afectos, se exageran los sentimientos, se desbordan las alegrías, se exageran las felicidades, se desbordan las emociones colectivas, se exageran las expresiones populares, se desbordan las tradiciones, se exageran las costumbres, se desbordan las identidades, se exageran las pertenencias, se desbordan las culturas, se exageran las diferencias, se desbordan las singularidades, se exageran las originalidades, se desbordan las creatividades, se exageran las innovaciones, se desbordan las transformaciones, se exageran los cambios, se desbordan las rupturas, se exageran las superaciones, se desbordan las superaciones, se exageran las superaciones, se desbordan las superaciones, se exageran las superaciones.
+¿Qué característica del Carnaval se destaca en este título?`,
+      options: [
+        "Su carácter festivo",
+        "Su origen histórico",
+        "Su importancia cultural",
+        "Su conexión con la magia"
+      ],
+      correct: 3,
+      explanation: `El título "El Carnaval: universo mágico de la alegría" no se refiere a una magia literal, sino a una transformación simbólica del orden cotidiano. La palabra "mágico" evoca un espacio temporal en el que se suspenden las normas sociales, se exagera todo lo humano y se permite una expresión desbordada del cuerpo, la identidad y la emoción. Este fenómeno, conocido en antropología como "lo liminar", caracteriza al Carnaval como un rito de paso donde lo ordinario se trasciende. Por tanto, la conexión con la magia es la característica más destacada, entendida como alteración ritual de la realidad.`
+    },
+    {
+      id: 2,
+      question: `2- EL LOCO
+Cada noche, a eso de las doce, abría su puerta y de la linterna dejaba caer un solo rayito de luz sobre su ojo de buitre. Pero siempre encontraba su ojo cerrado, porque no era el viejo quien me irritaba, sino su ojo malvado. La octava noche encontré su ojo abierto. Un ojo azul pálido, con una horrible membrana que me helaba la sangre. Con un fuerte alarido encendí la linterna y salté dentro del cuarto. Él pegó un grito...sólo uno. En un momento lo tiré al suelo y le eché la pesada cama encima. Entonces sonreí alegremente, al ver que ya iba tan adelantada mi obra. Durante muchos minutos, el corazón siguió latiendo con un ruido ahogado. Esto, sin embargo, no me irritaba; no podría oírse a través de las paredes. Por fin, cesó todo. El viejo estaba muerto. Levanté la cama y examiné el cadáver. Sí, estaba muerto, completamente muerto. Puse mi mano sobre su corazón y la mantuve allí varios minutos. No había ninguna pulsación. Estaba completamente muerto, su ojo no me molestaría más.
+Si ustedes creen que estoy loco, cambiarán de opinión cuando les describa las inteligentes precauciones que adopté para esconder el cuerpo. Avanzaba la noche y yo actuaba rápidamente, pero en silencio. Primero, despedacé el cadáver. Le corté la cabeza, los brazos y las piernas. En seguida, arranqué tres tablas del suelo de la habitación y deposité los restos en el hueco. Después volví a poner las tablas con tanta habilidad, con tanta astucia, que ningún ojo humano -ni siquiera el suyo- hubiera podido descubrir el menor error, no había nada que lavar -ningún tipo de mancha-, ni rastro de sangre. No se me escapó detalle alguno: una tina lo hizo desaparecer todo.
+La relación lógica que más se aproxima a la que se muestra entre el título y el contenido del relato es la de`,
+      options: [
+        "Conclusión",
+        "Comparación",
+        "Contraste",
+        "Confirmación"
+      ],
+      correct: 3,
+      explanation: `La relación entre el título "El Loco" y el contenido del relato es de confirmación. Aunque el narrador afirma repetidamente su cordura ("¿Pero por qué dirán ustedes que estoy loco?"), sus actos —asesinar por un ojo, escuchar un corazón muerto, desmembrar un cuerpo con orgullo— revelan una mente profundamente perturbada. La ironía dramática radica en que, al intentar demostrar su racionalidad mediante un relato detallado y metódico, el narrador confirma su locura. Por tanto, el título no se contrapone ni compara, sino que se ve plenamente confirmado por el desarrollo narrativo.`
+    },
+    {
+      id: 3,
+      question: `3-- EL NOMBRE DE LA ROSA (FRAGMENTO)
+Hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad, hablad......
+haber vaciado las jarras y botellas. Elegid al rey de los tontos, perdeos en la liturgia del asno y del cerdo, jugad a representar vuestras saturnales cabeza abajo.
+En el fragmento de "El nombre de la rosa", el hablante se dirige fundamentalmente a un destinatario:`,
+      options: [
+        "Universal.",
+        "Particular.",
+        "Plural.",
+        "Desconocido."
+      ],
+      correct: 0,
+      explanation: `El hablante se dirige a un destinatario universal, no a una persona específica ni a un grupo identificable. La repetición obsesiva de "hablad" crea una invocación generalizada, como un llamado a la humanidad entera para que recupere el poder del lenguaje. El fragmento, aunque caótico, sugiere una intención universal: reflexionar sobre el poder, el abuso y la pérdida del discurso en la sociedad medieval. No hay señales de un interlocutor particular, lo que confirma que el destinatario es universal.`
+    },
+    {
+      id: 4,
+      question: `4-- CIUDAD Y LITERATURA
+La literatura urbana no es aquella que se escribe en la ciudad, ni aquella que se escribe sobre la ciudad, ni aquella que se escribe por escritores urbanos. La literatura urbana es aquella que trata sobre los temas y los comportamientos que ha generado el desarrollo de lo urbano, y siempre a través de unos lenguajes peculiares. Esta definición no pretende ser exhaustiva ni excluyente, pero es útil para delimitar ese universo esquivo y manoseado de lo urbano.
+(Tomado de: TAMAYO S., Guido L. Prólogo al texto Cuentos urbanos. Colección El Pozo y el Péndulo, Bogotá: Panamericana, 1999.)
+En el primer párrafo del texto se cuestiona fundamentalmente`,
+      options: [
+        "Una definición",
+        "Un juicio",
+        "Un concepto",
+        "Una explicación"
+      ],
+      correct: 2,
+      explanation: `El texto cuestiona el concepto de "literatura urbana", desmontando ideas erróneas comunes (que es la literatura escrita en la ciudad o por autores urbanos) para proponer una definición más precisa. No se limita a dar una explicación, sino que construye un concepto nuevo a partir de la crítica a los usos convencionales del término. El verbo "cuestiona" implica una revisión conceptual, no meramente definitoria, por lo que el núcleo del texto es la redefinición de un concepto clave en la crítica literaria contemporánea.`
+    },
+    {
+      id: 5,
+      question: `5-- CIUDAD Y LITERATURA
+La literatura urbana no es aquella que se escribe en la ciudad, ni aquella que se escribe sobre la ciudad, ni aquella que se escribe por escritores urbanos. La literatura urbana es aquella que trata sobre los temas y los comportamientos que ha generado el desarrollo de lo urbano, y siempre a través de unos lenguajes peculiares. Esta definición no pretende ser exhaustiva ni excluyente, pero es útil para delimitar ese universo esquivo y manoseado de lo urbano.
+(Tomado de: TAMAYO S., Guido L. Prólogo al texto Cuentos urbanos. Colección El Pozo y el Péndulo, Bogotá: Panamericana, 1999.)
+En el enunciado "No obstante, considero que muchos de ellos tan sólo se acercan de manera superficial a ese calificativo", la expresión en negrilla puede ser reemplazada, sin que se modifique el sentido del enunciado, por:`,
+      options: [
+        "\"y\".",
+        "\"aunque\".",
+        "\"sin embargo\"",
+        "\"pero\"."
+      ],
+      correct: 2,
+      explanation: `La expresión "No obstante" introduce una oposición o contraste con lo dicho anteriormente, por lo que puede sustituirse sin alterar el sentido por "sin embargo", que cumple la misma función conectiva adversativa. Aunque "pero" también es adversativo, es más fuerte y coloquial; "aunque" introduce concesión, no contraste directo. "Sin embargo" mantiene el tono formal y la estructura lógica del enunciado, siendo la opción más precisa y gramaticalmente adecuada.`
+    },
+    {
+      id: 6,
+      question: `6-- CIUDAD Y LITERATURA
+La literatura urbana no es aquella que se escribe en la ciudad, ni aquella que se escribe sobre la ciudad, ni aquella que se escribe por escritores urbanos. La literatura urbana es aquella que trata sobre los temas y los comportamientos que ha generado el desarrollo de lo urbano, y siempre a través de unos lenguajes peculiares. Esta definición no pretende ser exhaustiva ni excluyente, pero es útil para delimitar ese universo esquivo y manoseado de lo urbano.
+(Tomado de: TAMAYO S., Guido L. Prólogo al texto Cuentos urbanos. Colección El Pozo y el Péndulo, Bogotá: Panamericana, 1999.)
+A partir del texto anterior, podemos afirmar que la crítica literaria es:`,
+      options: [
+        "La acción de organizar la producción literaria teniendo en cuenta sus aspectos geográficos",
+        "El acto por el cual alguien señala los aspectos negativos en la producción literaria de otro",
+        "Un proceso por el cual se valora o califica la producción literaria en un contexto particular",
+        "Una actitud con la cual se muestran las cosas positivas en la producción literaria de alguien"
+      ],
+      correct: 2,
+      explanation: `La crítica literaria, según el texto, es un proceso de valoración y calificación que se realiza en un contexto específico. El autor no se limita a listar obras, sino a interpretar, delimitar y redefinir un género (la literatura urbana) en función de su contenido temático y su lenguaje. Este acto crítico no consiste en señalar solo lo positivo o negativo, sino en construir un marco conceptual que permita entender una producción literaria dentro de un contexto social y cultural determinado. Por tanto, la crítica es un proceso de valoración contextual, no una mera opinión o selección.`
+    },
+    {
+      id: 7,
+      question: `7-	EL CULTO A LOS LIBROS
+De los diversos instrumentos inventados por el hombre, el más asombroso es, sin duda, el libro. Los demás son extensiones de su cuerpo. El microscopio, el telescopio, son extensiones de su vista; el teléfono es extensión de la voz; el arado y la espada, extensiones de su brazo. Pero el libro es otra cosa: el libro es una extensión de la memoria y de la imaginación. Se habla de la desaparición del libro; yo creo que es imposible. Se dirá: qué diferencia puede haber entre un libro y un periódico o un disco. La diferencia es que un periódico se lee para el olvido, un disco se oye así mismo para el olvido, es algo mecánico y por lo tanto frívolo. Un libro se lee para la memoria. Los antiguos no profesaban nuestro culto al libro, ya que veían a la palabra escrita como algo muerto. Pitágoras no escribió porque no quiso atarse a la palabra escrita, pues quería que su pensamiento viviese más allá de su muerte corporal en la mente de sus discípulos, y de esta forma ellos tuvieran la libertad de seguir pensando y repensando el pensamiento inicial de su maestro. Platón veía los libros como efigies (puede haber estado pensando en esculturas o en cuadros), que uno cree que están vivas, pero si se les pregunta algo no contestan. Entonces, para corregir esa mudez de los libros, inventa el diálogo platónico y de esta forma se multiplica en muchos personajes: Sócrates, Gorgias y los demás. Ahora vemos las bibliotecas como si fueran gabinetes mágicos, en donde están encantados los mejores espíritus de la humanidad, espíritus que esperan nuestra palabra para salir de su mudez. ¿Qué son las palabras acostadas en un libro? ¿Qué son esos símbolos muertos? Nada, absolutamente. ¿Qué es un libro si no lo abrimos? Es simplemente un cubo de papel y cuero, con hojas; pero si lo leemos ocurre algo raro. Si leemos un libro antiguo, es como si leyéramos todo el tiempo que ha transcurrido desde el día en que fue escrito y nosotros. Por eso conviene mantener el culto del libro. Podemos no estar de acuerdo con las opiniones del autor, pero el libro conserva algo sagrado, algo divino, que renueva en nosotros el deseo de encontrar felicidad, d encontrar sabiduría.
+Borges, Jorge Luis, Borges oral, Buenos Aires, Emecé Editores, 1979, págs 13-24.
+Al final del texto, el culto a los libros se presenta como una invitación a leer, pues ellos poseen una naturaleza sagrada y divina que les permite:`,
+      options: [
+        "Estar aprisionados por el papel y la portada",
+        "Estar destinados a convertirse en gabinetes mágicos",
+        "Ser portadores del tiempo y la memoria de la humanidad",
+        "Ser extensiones de la cultura oral de la antigüedad"
+      ],
+      correct: 2,
+      explanation: `El texto concluye con la idea de que el libro trasciende su materialidad para convertirse en un vehículo del tiempo y la memoria. Al leer un libro antiguo, no solo accedemos al contenido, sino que entramos en diálogo con el pasado. Esta función de "portador del tiempo" es lo que justifica el "culto" al libro: no es idolatría, sino reconocimiento de su poder para preservar y transmitir la experiencia humana a través de los siglos.`
+    },
+    {
+      id: 8,
+      question: `8-	EL CULTO A LOS LIBROS
+De los diversos instrumentos inventados por el hombre, el más asombroso es, sin duda, el libro. Los demás son extensiones de su cuerpo. El microscopio, el telescopio, son extensiones de su vista; el teléfono es extensión de la voz; el arado y la espada, extensiones de su brazo. Pero el libro es otra cosa: el libro es una extensión de la memoria y de la imaginación. Se habla de la desaparición del libro; yo creo que es imposible. Se dirá: qué diferencia puede haber entre un libro y un periódico o un disco. La diferencia es que un periódico se lee para el olvido, un disco se oye así mismo para el olvido, es algo mecánico y por lo tanto frívolo. Un libro se lee para la memoria. Los antiguos no profesaban nuestro culto al libro, ya que veían a la palabra escrita como algo muerto. Pitágoras no escribió porque no quiso atarse a la palabra escrita, pues quería que su pensamiento viviese más allá de su muerte corporal en la mente de sus discípulos, y de esta forma ellos tuvieran la libertad de seguir pensando y repensando el pensamiento inicial de su maestro. Platón veía los libros como efigies (puede haber estado pensando en esculturas o en cuadros), que uno cree que están vivas, pero si se les pregunta algo no contestan. Entonces, para corregir esa mudez de los libros, inventa el diálogo platónico y de esta forma se multiplica en muchos personajes: Sócrates, Gorgias y los demás. Ahora vemos las bibliotecas como si fueran gabinetes mágicos, en donde están encantados los mejores espíritus de la humanidad, espíritus que esperan nuestra palabra para salir de su mudez. ¿Qué son las palabras acostadas en un libro? ¿Qué son esos símbolos muertos? Nada, absolutamente. ¿Qué es un libro si no lo abrimos? Es simplemente un cubo de papel y cuero, con hojas; pero si lo leemos ocurre algo raro. Si leemos un libro antiguo, es como si leyéramos todo el tiempo que ha transcurrido desde el día en que fue escrito y nosotros. Por eso conviene mantener el culto del libro. Podemos no estar de acuerdo con las opiniones del autor, pero el libro conserva algo sagrado, algo divino, que renueva en nosotros el deseo de encontrar felicidad, d encontrar sabiduría.
+Borges, Jorge Luis, Borges oral, Buenos Aires, Emecé Editores, 1979, págs 13-24.
+La expresión "un periódico se lee para el olvido" se refiere a la :`,
+      options: [
+        "Abundante información escrita en nuestros días.",
+        "Naturaleza efímera y cotidiana de dicha publicación.",
+        "Naturaleza caótica y dispersa de dicha publicación.",
+        "Excesiva influencia de los medios impresos de comunicación."
+      ],
+      correct: 1,
+      explanation: `La expresión "un periódico se lee para el olvido" contrasta con la función del libro como objeto de memoria. El periódico, por su naturaleza diaria y actualizada, está destinado a ser consumido y descartado. Su contenido pierde vigencia rápidamente, lo que lo convierte en un texto efímero. Esta característica no es un defecto, sino una condición de su función social: informar sobre lo inmediato, no preservar lo eterno.`
+    },
+    {
+      id: 9,
+      question: `9-	EL CULTO A LOS LIBROS
+De los diversos instrumentos inventados por el hombre, el más asombroso es, sin duda, el libro. Los demás son extensiones de su cuerpo. El microscopio, el telescopio, son extensiones de su vista; el teléfono es extensión de la voz; el arado y la espada, extensiones de su brazo. Pero el libro es otra cosa: el libro es una extensión de la memoria y de la imaginación. Se habla de la desaparición del libro; yo creo que es imposible. Se dirá: qué diferencia puede haber entre un libro y un periódico o un disco. La diferencia es que un periódico se lee para el olvido, un disco se oye así mismo para el olvido, es algo mecánico y por lo tanto frívolo. Un libro se lee para la memoria. Los antiguos no profesaban nuestro culto al libro, ya que veían a la palabra escrita como algo muerto. Pitágoras no escribió porque no quiso atarse a la palabra escrita, pues quería que su pensamiento viviese más allá de su muerte corporal en la mente de sus discípulos, y de esta forma ellos tuvieran la libertad de seguir pensando y repensando el pensamiento inicial de su maestro. Platón veía los libros como efigies (puede haber estado pensando en esculturas o en cuadros), que uno cree que están vivas, pero si se les pregunta algo no contestan. Entonces, para corregir esa mudez de los libros, inventa el diálogo platónico y de esta forma se multiplica en muchos personajes: Sócrates, Gorgias y los demás. Ahora vemos las bibliotecas como si fueran gabinetes mágicos, en donde están encantados los mejores espíritus de la humanidad, espíritus que esperan nuestra palabra para salir de su mudez. ¿Qué son las palabras acostadas en un libro? ¿Qué son esos símbolos muertos? Nada, absolutamente. ¿Qué es un libro si no lo abrimos? Es simplemente un cubo de papel y cuero, con hojas; pero si lo leemos ocurre algo raro. Si leemos un libro antiguo, es como si leyéramos todo el tiempo que ha transcurrido desde el día en que fue escrito y nosotros. Por eso conviene mantener el culto del libro. Podemos no estar de acuerdo con las opiniones del autor, pero el libro conserva algo sagrado, algo divino, que renueva en nosotros el deseo de encontrar felicidad, d encontrar sabiduría.
+Borges, Jorge Luis, Borges oral, Buenos Aires, Emecé Editores, 1979, págs 13-24 
+Del culto a la oralidad de los antiguos y del culto a los libros en la actualidad podemos afirmar que:`,
+      options: [
+        "Los antiguos tenían razón, pues gracias a la escritura hoy tenemos conocimiento de su cultura.",
+        "Los antiguos tenían razón, pues en la actualidad se ha perdido la capacidad de escuchar y memorizar las enseñanzas.",
+        "Son dos formas de pensamiento, determinadas por necesidades culturales diferentes.",
+        "Son dos formas de pensamiento similares, pues privilegian ante todo el sentido de sus enseñanzas"
+      ],
+      correct: 2,
+      explanation: `El texto contrasta dos modelos de transmisión del conocimiento: el oral (antiguo) y el escrito (moderno). Los antiguos desconfiaban de la escritura porque la consideraban "muerta", mientras que hoy vemos el libro como un objeto sagrado. Ambas posturas responden a necesidades culturales específicas: la oralidad favorecía la memorización y el diálogo, mientras que la escritura permite acumular y preservar información masiva. No es que una sea mejor, sino que cada una responde a un contexto histórico distinto.`
+    },
+    {
+      id: 10,
+      question: `10- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con restricciones económicas por parte de la cadena NBC. Durante los 79 episodios grabados, jamás la nave U.S.S. Enterprise NCC-1701 pudo aterrizar en la superficie de planeta alguno, y la razón se vino a conocer años después: el presupuesto no permitía invertir en los escenarios capaces de dar credibilidad al descenso. Por ello, el orgullo de la Federación Unida de Planetas se limitó a girar tímidamente alrededor de mundos a los cuales la tripulación accedía gracias a la brillante y ahorrativa idea del teletransportador. Para rematar, una feliz "coincidencia" aseguró que la inmensa mayoría de estos cuerpos celestes contara con atmósferas respirables, así que tampoco había que invertir mucho en trajes espaciales.
+El tipo de texto con el cual se presenta la información sobre "Viaje a las Estrellas" es:`,
+      options: [
+        "Narrativo, porque cuenta una historia de ficción.",
+        "Argumentativo, porque defiende una postura sobre el impacto de la serie.",
+        "Descriptivo, porque detalla hechos irreales sucedidos en la nave Enterprise.",
+        "Expositivo, porque informa sobre aspectos técnicos y culturales de la serie."
+      ],
+      correct: 3,
+      explanation: `El texto no busca entretener (narrativo), convencer (argumentativo) ni describir una escena ficticia (descriptivo), sino informar sobre cómo limitaciones económicas llevaron a soluciones creativas en la producción de la serie. Su propósito es expositivo: explicar un fenómeno cultural y técnico de manera objetiva, sin emitir juicios de valor.`
+    },
+    {
+      id: 11,
+      question: `11- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con restricciones económicas por parte de la cadena NBC. Durante los 79 episodios grabados, jamás la nave U.S.S. Enterprise NCC-1701 pudo aterrizar en la superficie de planeta alguno, y la razón se vino a conocer años después: el presupuesto no permitía invertir en los escenarios capaces de dar credibilidad al descenso. Por ello, el orgullo de la Federación Unida de Planetas se limitó a girar tímidamente alrededor de mundos a los cuales la tripulación accedía gracias a la brillante y ahorrativa idea del teletransportador. Para rematar, una feliz "coincidencia" aseguró que la inmensa mayoría de estos cuerpos celestes contara con atmósferas respirables, así que tampoco había que invertir mucho en trajes espaciales.
+La expresión "hecha con las uñas" hace alusión a que la producción de esta serie fue realizada con escaso dinero, porque no se esperaba que tuviera tanto éxito, en el texto se habla de: "escenarios de cartón, uniformes de tela ordinaria, miniaturas y maquetas fabricadas con materiales de ocasión...". ¿Qué significa esta expresión?`,
+      options: [
+        "Que fue producida con tecnología avanzada",
+        "Que fue realizada con gran lujo y detalle",
+        "Que fue hecha con recursos mínimos y mucho esfuerzo",
+        "Que fue filmada en condiciones ideales"
+      ],
+      correct: 2,
+      explanation: `La expresión "hecha con las uñas" es una metáfora que indica que algo se realizó con escasos recursos materiales, pero con gran ingenio y esfuerzo. En este caso, se refiere a cómo una serie con bajo presupuesto (escenarios de cartón, trajes simples) logró un impacto cultural enorme gracias a la creatividad de su producción.`
+    },
+    {
+      id: 12,
+      question: `12- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con restricciones económicas por parte de la cadena NBC. Durante los 79 episodios grabados, jamás la nave U.S.S. Enterprise NCC-1701 pudo aterrizar en la superficie de planeta alguno, y la razón se vino a conocer años después: el presupuesto no permitía invertir en los escenarios capaces de dar credibilidad al descenso. Por ello, el orgullo de la Federación Unida de Planetas se limitó a girar tímidamente alrededor de mundos a los cuales la tripulación accedía gracias a la brillante y ahorrativa idea del teletransportador. Para rematar, una feliz "coincidencia" aseguró que la inmensa mayoría de estos cuerpos celestes contara con atmósferas respirables, así que tampoco había que invertir mucho en trajes espaciales.
+Según el texto, el futuro tecnológico plasmado en "Viaje a las Estrellas" ha influido en el desarrollo real de tecnologías como los teléfonos celulares y las computadoras. ¿Qué función cumple el texto al relacionar ficción y realidad?`,
+      options: [
+        "Critica la superficialidad de la ciencia ficción",
+        "Demuestra que la ficción puede inspirar avances reales",
+        "Cuestiona la utilidad de las series televisivas",
+        "Promueve el desarrollo de nuevas series"
+      ],
+      correct: 1,
+      explanation: `El texto establece una relación causal entre la ficción y la innovación tecnológica. Muestra cómo elementos imaginarios de la serie (como los comunicadores) inspiraron a ingenieros y diseñadores a crear dispositivos reales (como los teléfonos móviles). Su función no es crítica ni promocional, sino ilustrativa: demostrar el poder transformador de la imaginación.`
+    },
+    {
+      id: 13,
+      question: `13- EL FUTURO CUMPLE 30 AÑOS
+Un piloto de bombardero B-17 durante la Segunda Guerra Mundial, y más tarde guionista de series televisivas del Oeste, posibilitó los viajes espaciales a velocidades lumínicas, desarrolló un sistema capaz de transportar seres humanos gracias a la separación molecular, concibió los teléfonos celulares, proyectó la primera generación de máquinas inteligentes y contribuyó notablemente a la exploración de buena parte del universo.
+Con la expresión "Pocos recuerdan su nombre, y para la comunidad científica mundial es un discreto y redondo cero a la izquierda", Gómez hace alusión a que Gene Rodenberry:`,
+      options: [
+        "Fue un creador desconocido en su tiempo",
+        "Tuvo poca influencia en la ciencia",
+        "Fue un personaje secundario en la historia",
+        "Fue un genio ignorado por la comunidad científica"
+      ],
+      correct: 3,
+      explanation: `La expresión "cero a la izquierda" indica que, a pesar de su enorme impacto cultural y tecnológico, Gene Rodenberry no ha sido reconocido formalmente por la comunidad científica. Su genialidad no fue académica, sino imaginativa, y por eso su contribución, aunque real, no ha sido valorada en los círculos científicos tradicionales.`
+    },
+    {
+      id: 14,
+      question: `14- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con escaso dinero, pero terminó siendo una mina de oro. ¿Qué evidencia hay de esto en el texto?`,
+      options: [
+        "La serie tuvo muchos efectos especiales",
+        "La serie tuvo muchos episodios",
+        "La serie no tuvo escenarios de aterrizaje",
+        "La serie tuvo muchos actores"
+      ],
+      correct: 2,
+      explanation: `La evidencia de que la serie fue una "mina de oro" a pesar de su bajo presupuesto es que no pudo aterrizar en planetas, lo que indica limitaciones económicas. Este hecho, junto con el uso del teletransportador y atmósferas respirables, muestra cómo se ahorró dinero en producción, lo que contrasta con su enorme éxito posterior.`
+    },
+    {
+      id: 15,
+      question: `15- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con escaso dinero. ¿Qué solución encontró la producción para ahorrar costos?`,
+      options: [
+        "Utilizó efectos especiales avanzados",
+        "Utilizó escenarios de aterrizaje",
+        "Utilizó el teletransportador",
+        "Utilizó trajes espaciales"
+      ],
+      correct: 2,
+      explanation: `La solución más ingeniosa fue el teletransportador, que eliminó la necesidad de construir escenarios de aterrizaje en planetas. Esta invención ficticia resolvió un problema real de presupuesto y se convirtió en un elemento icónico de la serie.`
+    },
+    {
+      id: 16,
+      question: `16- EL CULTO A LOS LIBROS
+De los diversos instrumentos inventados por el hombre, el más asombroso es, sin duda, el libro. Los demás son extensiones de su cuerpo. El microscopio, el telescopio, son extensiones de su vista; el teléfono es extensión de la voz; el arado y la espada, extensiones de su brazo. Pero el libro es otra cosa: el libro es una extensión de la memoria y de la imaginación.
+Según el texto, el instrumento más asombroso inventado por el hombre es:`,
+      options: [
+        "El microscopio",
+        "El libro",
+        "El teléfono",
+        "El arado"
+      ],
+      correct: 1,
+      explanation: `El texto afirma explícitamente que "el más asombroso es, sin duda, el libro". A diferencia de otros instrumentos que extienden funciones físicas, el libro extiende la memoria y la imaginación, funciones mentales superiores. Esta cualidad lo eleva por encima de los demás inventos.`
+    },
+    {
+      id: 17,
+      question: `17- EL FUTURO CUMPLE 30 AÑOS
+La serie "Viaje a las Estrellas" fue producida con escaso dinero, pero terminó siendo una mina de oro. ¿Qué significa esto?`,
+      options: [
+        "La serie fue muy costosa de producir",
+        "La serie tuvo un gran éxito económico",
+        "La serie fue muy popular entre los críticos",
+        "La serie fue muy influyente en la cultura"
+      ],
+      correct: 1,
+      explanation: `La frase "mina de oro" es una metáfora económica que indica que, a pesar de su bajo presupuesto inicial, la serie generó enormes ganancias a través de licencias, merchandising, películas y emisiones internacionales.`
+    },
+    {
+      id: 18,
+      question: `18- EL FUTURO CUMPLE 30 AÑOS
+Un piloto de bombardero B-17 durante la Segunda Guerra Mundial, y más tarde guionista de series televisivas del Oeste, posibilitó los viajes espaciales a velocidades lumínicas, desarrolló un sistema capaz de transportar seres humanos gracias a la separación molecular, concibió los teléfonos celulares, proyectó la primera generación de máquinas inteligentes y contribuyó notablemente a la exploración de buena parte del universo.
+¿Qué se puede inferir sobre Gene Rodenberry a partir del texto?`,
+      options: [
+        "Fue un científico reconocido internacionalmente",
+        "Fue un ingeniero especializado en tecnología espacial",
+        "Fue un creador de ficción que inspiró avances tecnológicos",
+        "Fue un militar que desarrolló armas secretas"
+      ],
+      correct: 2,
+      explanation: `Gene Rodenberry no fue un científico, sino un creador de ficción. Sin embargo, sus ideas (viajes a la velocidad de la luz, inteligencia artificial, comunicadores) han inspirado a generaciones de científicos e ingenieros. El texto destaca su papel como visionario cultural, no técnico.`
+    },
+    {
+      id: 19,
+      question: `19- EL NOMBRE DE LA ROSA (FRAGMENTO)
+...la risa sigue siendo algo inferior, amparo de los simples, misterio vaciado de sacralidad para la plebe. Ya lo decía el apóstol: en vez de arder, casaos. En vez de rebelaros contra el orden querido por Dios, reíd y divertios con vuestras inmundas parodias del orden... al final de la comida, después de haber vaciado las jarras y botellas. Elegid al rey de los tontos, perdeos en la liturgia del asno y del cerdo, jugad a representar vuestras saturnales cabeza abajo.
+Según el texto, la risa se presenta como algo inferior porque:`,
+      options: [
+        "Solo la ríen los pobres.",
+        "Sirve para distraer al pueblo y mantener el orden social.",
+        "No tiene valor artístico.",
+        "Es un signo de debilidad."
+      ],
+      correct: 1,
+      explanation: `El texto presenta la risa como un mecanismo de control social: se permite al pueblo reír y burlarse temporalmente del orden establecido, pero solo para evitar rebeliones más profundas. Es una "polución diurna" que libera tensiones sin amenazar el sistema. Por eso se considera "inferior": no transforma, solo alivia.`
+    },
+    {
+      id: 20,
+      question: `20- EL CULTO A LOS LIBROS
+De los diversos instrumentos inventados por el hombre, el más asombroso es, sin duda, el libro. Los demás son extensiones de su cuerpo. El microscopio, el telescopio, son extensiones de su vista; el teléfono es extensión de la voz; el arado y la espada, extensiones de su brazo. Pero el libro es otra cosa: el libro es una extensión de la memoria y de la imaginación.
+Según el texto, el libro es una extensión de:`,
+      options: [
+        "La vista y la voz",
+        "La memoria y la imaginación",
+        "El brazo y la mano",
+        "El cuerpo y el alma"
+      ],
+      correct: 1,
+      explanation: `El texto establece una distinción fundamental: los otros instrumentos extienden funciones físicas (vista, voz, fuerza), mientras que el libro extiende funciones mentales superiores: la memoria (conservar el pasado) y la imaginación (crear el futuro). Esta cualidad lo convierte en el invento más asombroso.`
+    }
   ]
 };

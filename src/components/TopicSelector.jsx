@@ -11,7 +11,13 @@ export default function TopicSelector({ onSelectTopic }) {
     procedimiento_penal: "📘 Procedimiento Penal",
     penal_acusatorio: "⚖️ Penal Acusatorio",
     resultados_sistema: "📊 Resultados del Sistema",
-    competencia_administrativa_01: "🏛️ Competencia Administrativa"
+    competencia_administrativa_01: "🏛️ Competencia Administrativa 01",
+    competencia_administrativa_02: "🏛️ Competencia Administrativa 02",
+    competencia_administrativa_03: "🏛️ Competencia Administrativa 03",
+    competencia_administrativa_04: "🏛️ Competencia Administrativa 04",
+    competencia_administrativa_05: "🏛️ Competencia Administrativa 05",
+    competencia_linguistica_02: "📚 Competencia Lingüística 02",
+    competencia_linguistica_03: "📚 Competencia Lingüística 03"
   };
 
   return (
